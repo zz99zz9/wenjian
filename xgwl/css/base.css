@@ -1,9 +1,64 @@
-
-
+.index{background-color:#060407;padding:0px 0 ;}
+.index img{width:100%;}
+body{background-image:url("../img/bg.png")}
+.wjbor{width:96%;margin-left:2%;padding:20px 10px;background-color:rgba(8,11,29,0.8);border-radius:5px;}
+h2{font-size:2.2em;color:#45aaf0;text-align: center;line-height:130%;font-weight:bold;}
+.info{font-size:1.2em;color:#fff;text-align:center;line-height:200%;}
+.info .h1{font-size:1.5em;}
+.info em{color:#45aaf0;font-weight:bold;}
+.ptit{width:45%;padding:40px 0;margin-left:2%;}
+.ptit img{width:100%;}
+.col-xs-3 img{width:100%;}
+.wjbor ul li{text-align:left;font-size:1em;color:#fff;}
+.wjbor .row{color:#fff;font-size:1em;}
+.wjbor .row em{color:#45aaf0;font-weight:bold;}
+.tit2{font-size:1em;text-align:center;color:#fff;line-height:260%;}
+/***********/
+.pbor{margin-bottom:50px;}
+.pbor img{width:96%;margin-left:2%;}
 /**************************/
 /*        顶部通用         */
 /**************************/
 
+/*********嘉宾列表****************/
+.swiper-container {
+    width: 100%;
+    padding-bottom: 50px;
+}
+.swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+
+}
+.swiper-pagination-bullet{background-color:#fff;}
+.picinfo{width:100%;background-image:url("../img/infobg.png") ;background-size:80%;background-position:15px 10px;}
+.picinfo .picinfo1{border:1px solid #b0afb0;border-radius:5px;height:150px;}
+.picinfo .picinfo1 .pic{width:35%;float:left;margin-left:5%;margin-top:20px;}
+.picinfo .picinfo1 .info{width:60%;float:right;text-align:left;padding-left:25px;}
+.picinfo .picinfo1 .info .name{font-size:1.2em;color:#45aaf0;margin-top:20px;}
+.picinfo .picinfo2{border:1px solid #b0afb0;border-radius:5px;height:150px;padding:10px;margin-bottom:10px;margin-top:10px;}
+.picinfo .picinfo2 img{width:100%;margin-top:5px;margin-bottom:5px;}
+.picinfo .picinfo2 .txt1{color:#45aaf0;}
+.picinfo .picinfo2 .txt2{color:#fff;}
+
+/*****大会日程***********/
+.ptime{color:#fff;padding-left:5%;font-size:1.5em;}
+.ptime b{font-weight:bold;font-size:1.6em;display:block;}
+.tline{padding-left:5%;height:40px;background-color:#45aaf0;color:#fff;line-height: 40px;font-size:1.5em;position:relative;}
+.tline i{width:0;height:0;border-left:10px solid transparent;border-right:10px solid transparent; border-top:10px solid #fff;float:right;margin-top:4%;margin-right:5%;}
+.tline i.r180{transform: rotateZ(180deg);}
+.timelist li{position:relative;border-bottom:#a5a5a6 1px solid;height:100px;}
+.timelist li .timer{height:20px;width:90px;border-radius:10px;background-color:#262626;position:absolute;top:8px;left:-10px;padding-left:15px;color:#fff;font-size:0.8em;line-height:20px;}
+.timelist li .left{width:35%;float:left;margin-left:5%;margin-top:20px;}
+.timelist li .left img{width:80%;margin-top:5px;margin-bottom:5px;}
+.timelist li .right{width:60%;float:right;text-align:left;padding-left:25px;}
+.timelist li .right h2{color:#fff;line-height:80px;padding-left:15px;text-align:left;}
+.timelist li .right h3{color:#fff;line-height:30px;text-align:left;font-size:1.5em;}
+.timelist li.info{height:230px;}
+.timelist li.info .right{padding-top:10px;}
+.timelist li.info .name{color:#45aaf0;}
 @media (max-width:768px){
 
 

@@ -23,7 +23,12 @@
       $(this).addClass('on').siblings(tab.find("a")).removeClass('on');
       $(con).eq(on).show().siblings(con).hide();
   });
+//
+$(".tline").click(function(){
+    var con=$(this).attr("id");
+    $(con).fadeOut();
 
+});
   // pc端导航切换
   $(".XGnav .XGli").mousemove(function(){
       var tab=$(this).parent(".XGnav");
