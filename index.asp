@@ -35,7 +35,7 @@
     case else
         tit="问见"
         url="http://wenjianai.mikecrm.com/SYJolul"
-    select end
+    end select
     %>
 <div class="container index">
   <img src="xgwl/img/index.gif">
