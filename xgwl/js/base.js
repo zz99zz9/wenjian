@@ -24,11 +24,10 @@
       $(con).eq(on).show().siblings(con).hide();
   });
 //
-$(".tline").click(function(){
-    var con=$(this).attr("id");
-    $(con).fadeOut();
-
-});
+function hid(v){
+    $(v).fadeToggle();
+    console.log("-_-");
+}
   // pc端导航切换
   $(".XGnav .XGli").mousemove(function(){
       var tab=$(this).parent(".XGnav");
