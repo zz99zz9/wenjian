@@ -18,6 +18,25 @@
 </head>
 
 <body>
+    <%from=request.QueryString("form")
+    select case from
+    case "wj"
+        tit="问见"
+        url="http://wenjianai.mikecrm.com/SYJolul"
+    case "maimai"
+        tit="问见"
+        url="http://wenjianai.mikecrm.com/SYJolul"
+    case "sh"
+        tit="问见"
+        url="http://wenjianai.mikecrm.com/SYJolul"
+    case "eg"
+        tit="问见"
+        url="http://wenjianai.mikecrm.com/SYJolul"
+    case else
+        tit="问见"
+        url="http://wenjianai.mikecrm.com/SYJolul"
+    select end
+    %>
 <div class="container index">
   <img src="xgwl/img/index.gif">
 </div>
