@@ -7,8 +7,8 @@ h2{font-size:1.2em;color:#45aaf0;text-align: center;line-height:130%;font-weight
 .info .h1{font-size:1.5em;}
 .info em{color:#43A9F0;font-weight:bold;}
 .picinfo .info .txt{line-height:150%;}
-.ptit{width:45%;padding:40px 0;margin-left:2%;clear:both;}
-.ptit2{width:55%;padding:40px 0;margin-left:2%;clear:both;}
+.ptit{width:45%;padding:40px 0 25px 0;margin-left:2%;clear:both;}
+.ptit2{width:55%;padding:40px 0 30px 0;margin-left:2%;clear:both;}
 .ptit img,.ptit2 img{width:100%;}
 .col-xs-3 img{width:100%;}
 .wjbor ul li{text-align:left;font-size:1em;color:#fff;}
