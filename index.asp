@@ -507,8 +507,8 @@ end select
     <img src='xgwl/img/link1.png'>
     <h3>联合主办方</h3>
     <img src='xgwl/img/link2.png'>
-    <h3>协办方</h3>
-    <h3>战略合作伙伴</h3>
+<!--    <h3>协办方</h3>
+    <h3>战略合作伙伴</h3>-->
     <h3>合作支持机构</h3>
     <img src='xgwl/img/link3.png'>
     <h3>战略合作媒体</h3>
