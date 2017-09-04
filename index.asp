@@ -4,7 +4,26 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1" />
-<title>问见</title>
+<%from=request.QueryString("form")
+select case from
+case "wj"
+    tit="问见"
+    url="http://wenjianai.mikecrm.com/SYJolul"
+case "maimai"
+    tit="问见"
+    url="http://wenjianai.mikecrm.com/SYJolul"
+case "sh"
+    tit="问见"
+    url="http://wenjianai.mikecrm.com/SYJolul"
+case "eg"
+    tit="问见"
+    url="http://wenjianai.mikecrm.com/SYJolul"
+case else
+    tit="问见1"
+    url="http://wenjianai.mikecrm.com/SYJolul"
+end select
+%>
+<title><%=tit%></title>
 <link rel="stylesheet" href="xgwl/css/lib/bootstrap.min.css" />
 <link rel="stylesheet" href="xgwl/css/lib/swiper-3.4.0.min.css" />
 <link rel="stylesheet" href="xgwl/css/xgwl.css"/>
@@ -18,25 +37,7 @@
 </head>
 
 <body>
-    <%from=request.QueryString("form")
-    select case from
-    case "wj"
-        tit="问见"
-        url="http://wenjianai.mikecrm.com/SYJolul"
-    case "maimai"
-        tit="问见"
-        url="http://wenjianai.mikecrm.com/SYJolul"
-    case "sh"
-        tit="问见"
-        url="http://wenjianai.mikecrm.com/SYJolul"
-    case "eg"
-        tit="问见"
-        url="http://wenjianai.mikecrm.com/SYJolul"
-    case else
-        tit="问见"
-        url="http://wenjianai.mikecrm.com/SYJolul"
-    end select
-    %>
+   
 <div class="container index">
   <img src="xgwl/img/index.gif">
 </div>
@@ -438,7 +439,7 @@
             <p class='txt'>座位排在第15到第35排，剧院式坐席。按号售票模式，越早购买，座位越靠前面。</p><p class='txt2'><span class='jg'>128</span>元/席位 （仅量600席）</p>
           </div>
   <!--立即报名 -->
-  <a href="http://wenjianai.mikecrm.com/SYJolul"  class='qp'>立即报名</a>
+  <a href="<%=url%>"  class='qp'>立即报名</a>
   <!--大会合作-->
 <div class='ptit'>
     <img src='xgwl/img/tit6.png'>
@@ -525,6 +526,8 @@
     <div class='pic'>
       <img src='xgwl/img/bottom.gif'>
     </div>
+    <!--悬浮报名-->
+    <a class='totop' href='<%=url%>'><img src='xgwl/img/totop.png'></a>
 <!--底部加载-->
 
 <script src="xgwl/js/lib/jquery.js"></script>
