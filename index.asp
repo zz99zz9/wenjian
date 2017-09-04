@@ -167,7 +167,7 @@
                   <div class='picinfo'>
                       <div class='picinfo1'>
                         <div class='pic'>
-                          <img src='xgwl/img/pic.png'>
+                          <img src='xgwl/img/p6.png'>
                         </div>
                         <div class='info'>
                           <div class='name'>
@@ -265,13 +265,14 @@
     <div class="timer">14:00</div>
     <div class='pinfo'>
   <div class="left"><img src='xgwl/img/p2.png'></div>
-<div class="right"><h3>主题</h3>
+<div class="right"><h3>解密语音交互智能的AI产品设计</h3>
   <div class='name'>赵恒艺/思必驰</div><span class='txt'>副总裁</span>
   <!---->
 </div>
 </div>
 <div class='pinfo2'>
-    …………
+  交互智能已经从搜索智能、内容智能发展到综合智能，并覆盖众多垂直行业应用；语音交互智能也成为当前最火热的人机交互手段，那么我们是如何快速实现呢？
+  
 </div>
 </li>
 <img src="xgwl/img/infoline.png" class='tl'>
@@ -317,7 +318,7 @@
 <li class='info bg2'>
     <div class="timer">16:00</div>
     <div class='pinfo'>
-  <div class="left"><img src='xgwl/img/pic.png'></div>
+  <div class="left"><img src='xgwl/img/p6.png'></div>
 <div class="right"><h3>让机器读懂人类情感</h3>
   <div class='name'>翁嘉颀/竹间智能</div><span class='txt'>CTO</span>
 </div>
