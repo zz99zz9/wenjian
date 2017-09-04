@@ -19,7 +19,7 @@ case "eg"
     tit="问见"
     url="http://wenjianai.mikecrm.com/SYJolul"
 case else
-    tit="问见1"
+    tit="问见"
     url="http://wenjianai.mikecrm.com/SYJolul"
 end select
 %>
@@ -510,7 +510,15 @@ end select
 <!--    <h3>协办方</h3>
     <h3>战略合作伙伴</h3>-->
     <h3>合作支持机构</h3>
-    <img src='xgwl/img/link3.png'>
+    <!--<img src='xgwl/img/link3.png'>-->
+    <a href='#'><img src='xgwl/img/links/01.png'></a>
+    <a href='#'><img src='xgwl/img/links/02.png'></a>
+    <a href='#'><img src='xgwl/img/links/03.png'></a>
+    <a href='#'><img src='xgwl/img/links/04.png'></a>
+    <a href='#'><img src='xgwl/img/links/05.png'></a>
+    <a href='#'><img src='xgwl/img/links/06.png'></a>
+    <a href='#'><img src='xgwl/img/links/07.png'></a>
+
     <h3>战略合作媒体</h3>
     <img src='xgwl/img/link4.png'>
     <h3>战略合作孵化器</h3>
