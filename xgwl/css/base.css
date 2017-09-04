@@ -90,7 +90,7 @@ h2{font-size:1.2em;color:#45aaf0;text-align: center;line-height:130%;font-weight
 .wzinfo .txt2 .jg{color:#fff;font-size:1.5em;}
 
 /*抢票*/
-.qp{line-height:45px;font-size:1.3em;text-align:center;color:#fff;width:40%;height:45px;background-color:#45aaf0;border-radius:5px;display:block;margin:50px auto;}
+.qp{line-height:45px;font-size:1.3em;text-align:center;color:#fff;width:40%;height:45px;background-color:#45aaf0;border-radius:5px;display:block;margin:50px auto;font-weight:bold;}
 
 /*大会合作*/
 .hz{color:#fff;font-size:1.5em;line-height:200%;padding-left:5%;}
