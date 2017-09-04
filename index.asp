@@ -540,7 +540,7 @@ end select
     <a href='http://www.cocospace.com.cn/'><img src='xgwl/img/links/22.png'></a>
   </div>
   <!--获取大会ppt-->
-  <div class='ptit2' ><br><br>
+  <div class='ptit2' >
       <img src='xgwl/img/tit9.png'>
     </div>
     <div class='eq'>
