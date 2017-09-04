@@ -102,9 +102,9 @@ h2{font-size:1.2em;color:#45aaf0;text-align: center;line-height:130%;font-weight
 .qa .q .blue,.qa .a .blue{color:#45aaf0;}
 /*合作媒体*/
 .hzhb{color:#fff;}
-.hzhb h3{font-size:1.5em;text-align:center;font-weight:100;}
+.hzhb h3{font-size:1.5em;text-align:center;font-weight:100;clear:both;}
 .hzhb img{width:100%;}
-.hzhb a{width:50%;float:left;display:block;padding:5px 5%;}
+.hzhb a{width:50%;float:left;display:block;padding:15px 5%;}
 /*页底*/
 .eq{width:50%;margin:30px auto;}
 .eq img{width:100%;}
