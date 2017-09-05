@@ -11,7 +11,6 @@
 <%from=trim(request.QueryString("from"))
 set brs=server.createobject("adodb.recordset")
 bsql = "select * from [tdk] where k='"&from&"'"
-
 brs.open bsql,conn,1,1
 if brs.bof and brs.eof then
 tit="问见"
@@ -21,6 +20,9 @@ else
 tit=brs("t")
 key=brs("k")
 url=brs("d")
+Counter=brs("oid")+1
+update="UPDATE [tdk] SET [oid]="&Counter&" WHERE k='"&from&"'"
+conn.execute update
 end if
 %>
 <title><%=tit%></title>

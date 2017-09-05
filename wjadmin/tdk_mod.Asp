@@ -71,10 +71,10 @@ End if
   </div>
 
 <div class="form-group row">
-    <label for="Oid" class="col-sm-2 control-label text-right xglab">排序ID</label>
+    <label for="Oid" class="col-sm-2 control-label text-right xglab">Counter</label>
     <div class="col-sm-7 row">
     <div class="col-sm-2">
-      <input type="text" name="Oid" class="form-control" id="Oid" value="<%=oRs("oid")%>" placeholder="数字越大排序越靠前" >
+      <input type="text" name="Oid" class="form-control" id="Oid" value="<%=oRs("oid")%>"  readonly>
       </div>
     </div>
 </div>

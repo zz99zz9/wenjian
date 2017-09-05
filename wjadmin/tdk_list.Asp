@@ -42,9 +42,9 @@ rs.open sql,conn,1,1
           
             <th width="40" class="hidden-phone"><strong>ID</strong></td>
 
-            <th width="200" ><strong>栏目标题</strong></td>
+            <th width="200" ><strong>标题</strong></td>
             <th width="50" class="hidden-phone"><strong>更新时间</strong></td>
-            <th width="40" class="hidden-phone"><strong>排序id</strong></td>
+            <th width="40" class="hidden-phone"><strong>Counter</strong></td>
 
             <th width="48" ><strong>操作</strong></td>
           </tr></thead>

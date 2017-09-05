@@ -16,14 +16,14 @@
                           <span class="arrow"></span>
                       </a>
                       <ul class="sub">
-                          <li class="nav1-1"><a class="" href="sitebase.asp">基本信息管理</a></li>
+                         <!-- <li class="nav1-1"><a class="" href="sitebase.asp">基本信息管理</a></li>-->
                           <li class="nav1-2"><a class="" href="sitemanager.asp">管理员管理</a></li>
                           <li class="nav1-3"><a class="" href="sitespase.asp">空间使用信息</a></li>
                           <!-- <li class="nav1-4"><a class="" href="siteinfo.asp">服务器情况</a></li>-->
                           <li class="nav1-4"><a class="" href="tdk_list.asp">网站优化设置</a></li>
                       </ul>
                   </li>
-                  <li class="sub-menu nav2">
+                  <li class="sub-menu nav2 hidden">
                       <a href="javascript:;" class="">
                           <i class="icon-cogs"></i>
                           <span>关于公司</span>
@@ -35,7 +35,7 @@
                                           <li class="nav2-3"><a class="" href="single.asp?nav=9">海外地产中心</a></li><!----class_links.asp---->
                       </ul>
                   </li>
-                   <li class="sub-menu nav3">
+                   <li class="sub-menu nav3 hidden">
                       <a href="javascript:;" class="">
                           <i class="icon-tasks"></i>
                           <span>项目介绍</span>
@@ -53,7 +53,7 @@
 
                       </ul>
                   </li>
-                                     <li class="sub-menu nav7">
+                                     <li class="sub-menu nav7 hidden">
                                         <a href="javascript:;" class="">
                                             <i class="icon-tasks"></i>
                                             <span>代表项目</span>
@@ -70,7 +70,7 @@
                                 <li class="nav7-23a"><a class="" href="Prod_add.asp?Prod_Type=23">增添国外代表项目</a></li>
                                         </ul>
                                     </li>
-  <li class="sub-menu nav4">
+  <li class="sub-menu nav4 hidden">
                       <a href="javascript:;" class="">
                           <i class="icon-tasks"></i>
                           <span>咨询服务</span>
@@ -116,7 +116,7 @@ rs.close
 	set rs=nothing%>
                       </ul>
                   </li>
-  <li class="sub-menu nav5">
+  <li class="sub-menu nav5 hidden">
                       <a href="javascript:;" class="">
                           <i class="icon-tasks"></i>
                           <span>新闻资讯</span>
@@ -140,7 +140,7 @@ rs.close
 
                       </ul>
                   </li>
-                    <li class="sub-menu nav6">
+                    <li class="sub-menu nav6 hidden">
                                         <a href="javascript:;" class="">
                                             <i class="icon-tasks"></i>
                                             <span>联系我们</span>
@@ -153,7 +153,7 @@ rs.close
                                              <li class="nav6-4"><a class="" href="lyb2.asp">查看活动报名</a></li>
                                         </ul>
                                     </li>
-<!--  -->                <li class="sub-menu nav8">
+<!--  -->                <li class="sub-menu nav8 hidden">
                       <a href="javascript:;" class="">
                           <i class="icon-tasks"></i>
                           <span>广告链接</span>
