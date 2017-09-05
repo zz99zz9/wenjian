@@ -4,24 +4,23 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1" />
-<%from=request.QueryString("form")
-select case from
-case "wj"
-    tit="问见"
-    url="http://wenjianai.mikecrm.com/SYJolul"
-case "maimai"
-    tit="问见"
-    url="http://wenjianai.mikecrm.com/SYJolul"
-case "sh"
-    tit="问见"
-    url="http://wenjianai.mikecrm.com/SYJolul"
-case "eg"
-    tit="问见"
-    url="http://wenjianai.mikecrm.com/SYJolul"
-case else
-    tit="问见"
-    url="http://wenjianai.mikecrm.com/SYJolul"
-end select
+<!--#include file="inc/conn.asp"-->
+<!--#include file="inc/Config.Asp"-->
+<!--#include file="inc/Function.asp"-->
+<!--#include file="inc/Inc.Asp"-->
+<%from=trim(request.QueryString("form"))
+set brs=server.createobject("adodb.recordset")
+bsql = "select * from [tdk] where k="&from
+brs.open bsql,conn,1,1
+if brs.bof and brs.eof then
+tit="问见"
+url="http://wenjianai.mikecrm.com/SYJolul"
+key="wenjian"
+else
+tit=brs("t")
+key=brs("k")
+url=brs("d")
+end if
 %>
 <title><%=tit%></title>
 <link rel="stylesheet" href="xgwl/css/lib/bootstrap.min.css" />
