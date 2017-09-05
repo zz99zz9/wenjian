@@ -10,7 +10,8 @@
 <!--#include file="inc/Inc.Asp"-->
 <%from=trim(request.QueryString("form"))
 set brs=server.createobject("adodb.recordset")
-bsql = "select * from [tdk] where k="&from
+bsql = "select * from [tdk] where k='"&from&"'"
+response.write bsql
 brs.open bsql,conn,1,1
 if brs.bof and brs.eof then
 tit="问见"
