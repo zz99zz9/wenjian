@@ -504,9 +504,13 @@ end select
   </div>
   <div class='hzhb'>
     <h3>主办方</h3>
-    <img src='xgwl/img/link1.png'>
+    <a href='http://maimai.cn/'><img src='xgwl/img/links/31.png'></a>
+    <a href='http://www.wenjian.ai/'><img src='xgwl/img/links/32.png'></a>
     <h3>联合主办方</h3>
-    <img src='xgwl/img/link2.png'>
+    <a href='http://maimai.cn/'><img src='xgwl/img/links/41.png'></a>
+    <a href='http://www.wenjian.ai/'><img src='xgwl/img/links/42.png'></a>
+    <a href='http://edu.tv.sohu.com/'><img src='xgwl/img/links/43.png'></a>
+    <a href='https://www.analysys.cn/'><img src='xgwl/img/links/44.png'></a>
 <!--    <h3>协办方</h3>
     <h3>战略合作伙伴</h3>-->
     <h3>合作支持机构</h3>
