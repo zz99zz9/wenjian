@@ -43,20 +43,22 @@ rs.open sql,conn,1,1
             <th width="40" class="hidden-phone"><strong>ID</strong></td>
 
             <th width="200" ><strong>标题</strong></td>
+            <th width="200" ><strong>参数</strong></td>
             <th width="50" class="hidden-phone"><strong>更新时间</strong></td>
             <th width="40" class="hidden-phone"><strong>Counter</strong></td>
 
-            <th width="48" ><strong>操作</strong></td>
+            <th width="48" class="hidden"><strong>操作</strong></td>
           </tr></thead>
           <tbody>
           <%do while not rs.eof%>
           <tr > 
             <td class="hidden-phone"><%=rs("id")%></td>
             <td><%=rs("name")%></td>
+            <th width="200" ><%=rs("k")%></td>
             <td class="hidden-phone"><%= FormatDateTime(rs("uptime"),2) %></td>
             <td class="hidden-phone"><%=rs("oid")%></td>
 
-            <td > 
+            <td  class="hidden"> 
               <a href="tdk_mod.asp?ID=<%=rs("id")%>" class="btn btn-success btn-xs">修改</a>
               <a href="?id=<%=rs("id")%>" onClick="return ConfirmDel();" class="btn btn-danger btn-xs">删除</a> </td>
           </tr>
