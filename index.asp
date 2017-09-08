@@ -541,6 +541,8 @@ end if
     <a href='http://tech.163.com/'><img src='xgwl/img/links/113.png'></a>
     <a href='http://tech.sina.com.cn/'><img src='xgwl/img/links/114.png'></a>
     <a href='http://tech.qq.com/'><img src='xgwl/img/links/115.png'></a>
+    <a ><img src='xgwl/img/links/23.png'></a>
+    <a href='http://www.baosoft.cn/'><img src='xgwl/img/links/24.png'></a>
     <h3>战略合作孵化器</h3>
     <a href='http://www.weqicheng.com/'><img src='xgwl/img/links/21.png'></a>
     <a href='http://www.cocospace.com.cn/'><img src='xgwl/img/links/22.png'></a>
