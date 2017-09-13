@@ -507,10 +507,11 @@ end if
   </div>
   <div class='hzhb'>
     <h3>主办方</h3>
-    <a href='http://maimai.cn/'><img src='xgwl/img/links/31.png'></a>
+    <a ><img src='xgwl/img/links/41.png'></a>
+   <!-- <a href='http://maimai.cn/'><img src='xgwl/img/links/31.png'></a>-->
     <a href='http://www.wenjian.ai/'><img src='xgwl/img/links/32.png'></a>
     <h3>联合主办方</h3>
-    <a ><img src='xgwl/img/links/41.png'></a>
+    
     <a href='http://www.wenjian.ai/'><img src='xgwl/img/links/42.png'></a>
     <a href='http://edu.tv.sohu.com/'><img src='xgwl/img/links/43.png'></a>
     <a href='https://www.analysys.cn/'><img src='xgwl/img/links/44.png'></a>
