@@ -490,13 +490,8 @@ end if
 </div>  <div class='qa'>
     <p class='q'><span class='blue'>Q3：</span>大会会场入场凭证？</p>
     <p class='a'><span class='blue'>A：</span>签到后会配发入场证，会场大门口安保人员检验合格后即可入场；</p>
-</div>  <div class='qa'>
-    <p class='q'><span class='blue'>Q4：</span>到酒店的路线级时间？</p>
-    <p class='a'><span class='blue'>A1：</span>地铁直达：乘坐12号线到“七莘路”站2号口出，穿过顾戴路沿着七莘路直行，步行大概3-5分钟。</p>
-      <p class='a'><span class='blue'>A2：</span>地铁+共享单车：乘坐9号线到“七宝”站4号口出，骑共享单车，沿七莘路向东南方直行，大概5分钟。</p>
-        <p class='a'><span class='blue'>A3：</span>自驾请导航，地址：上海市闵行区七莘路1885号。</p>
-</div>  <div class='qa'>
-    <p class='q'><span class='blue'>Q5：</span>大会是否有微信群？</p>
+</div>   <div class='qa'>
+    <p class='q'><span class='blue'>Q4：</span>大会是否有微信群？</p>
     <p class='a'><span class='blue'>A：</span>大会签到成功进入会场后会会发现，四周墙上张贴有大会群二维码，扫码即可入群。</p>
 </div>
 </div>
