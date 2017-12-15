@@ -13,7 +13,7 @@ set brs=server.createobject("adodb.recordset")
 bsql = "select * from [tdk] where k='"&from&"'"
 brs.open bsql,conn,1,1
 if brs.bof and brs.eof then
-tit="问见"
+tit="问见研习社"
 url="http://wenjianai.mikecrm.com/SYJolul"
 key="wenjian"
 else
