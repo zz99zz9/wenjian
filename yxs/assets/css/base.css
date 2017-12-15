@@ -21,7 +21,7 @@ body{background-image:url("../img/bg.png");background-size:cover;background-posi
 .qr{width:50%;text-align:center;margin-left:25%;margin-bottom:10px;}
 .gz{text-align:center;}
 .footerlogo{width:50%;margin-left:25%;margin-top:10px;margin-bottom:20px;}
-.bm{position:fixed;bottom:15%;right:10px;}
+.bm{position:fixed;bottom:5%;right:10px;}
 .bm img{width:40px;}
 .textmain{width:90%;margin-left:5%;}
 .lh40{line-height:40px;}
