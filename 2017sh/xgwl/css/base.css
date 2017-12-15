@@ -1,0 +1,125 @@
+.index{background-color:#060407;padding:0px 0 ;}
+.index img{width:100%;}
+body{background-image:url("../img/bg.png");max-width:750px;margin:0 auto;}
+.wjbor{width:96%;margin-left:2%;padding:20px 10px;background-color:rgba(8,11,29,0.8);border-radius:5px;}
+h2{font-size:1.2em;color:#45aaf0;text-align: center;line-height:130%;font-weight:bold;}
+.info{font-size:1.2em;color:#fff;text-align:center;line-height:200%;}
+.info .h1{font-size:1.5em;}
+.info em{color:#43A9F0;font-weight:bold;}
+.picinfo .info .txt{line-height:150%;}
+.ptit{width:45%;padding:40px 0 25px 0;margin-left:2%;clear:both;}
+.ptit2{width:55%;padding:40px 0 30px 0;margin-left:2%;clear:both;}
+.ptit img,.ptit2 img{width:100%;}
+.col-xs-3 img{width:100%;}
+.wjbor ul li{text-align:left;font-size:1em;color:#fff;}
+.wjbor .row{color:#fff;font-size:1em;}
+.wjbor .row em{color:#45aaf0;font-weight:bold;}
+.tit2{font-size:1em;text-align:center;color:#fff;line-height:260%;}
+/***********/
+.pbor{margin-bottom:50px;}
+.pbor img{width:96%;margin-left:2%;}
+/**************************/
+/*        顶部通用         */
+/**************************/
+
+/*********嘉宾列表****************/
+.swiper-container {
+    width: 100%;
+    padding-bottom: 140px;
+}
+.swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+
+}
+.swiper-pagination-bullet{background-color:#fff;}
+.picinfo{width:100%;background-image:url("../img/infobg.png") ;background-size:80%;background-position:15px 10px;}
+.picinfo .picinfo1{border:1px solid #b0afb0;border-radius:5px;height:150px;}
+.picinfo .picinfo1 .pic{width:35%;float:left;margin-left:5%;margin-top:20px;}
+.picinfo .picinfo1 .info{width:60%;float:right;text-align:left;padding-left:25px;}
+.picinfo .picinfo1 .info .name{font-size:1.2em;color:#45aaf0;margin-top:20px;}
+.picinfo .picinfo2{border:1px solid #b0afb0;border-radius:5px;min-height:150px;padding:10px;margin-bottom:10px;margin-top:10px;}
+.picinfo .picinfo2 img{width:100%;margin-top:5px;margin-bottom:5px;}
+.picinfo .picinfo2 .txt1{color:#45aaf0;}
+.picinfo .picinfo2 .txt2{color:#fff;}
+
+/*****大会日程***********/
+.ptime{color:#fff;padding-left:5%;font-size:1.5em;}
+.ptime b{font-weight:bold;font-size:1.6em;display:block;}
+.tline{padding-left:5%;height:40px;background-color:#45aaf0;color:#fff;line-height: 40px;font-size:1.5em;position:relative;}
+.tline i{width:0;height:0;border-left:10px solid transparent;border-right:10px solid transparent; border-top:10px solid #fff;float:right;margin-top:4%;margin-right:5%;}
+.tline2{font-size:1.1em;}
+.tline i.r180{transform: rotateZ(180deg);}
+.timelist li{position:relative;min-height:140px;}/*border-bottom:#275f86 1px solid;*/
+.timelist li .timer{height:20px;width:90px;border-radius:10px;background-color:#262626;position:absolute;top:5px;left:-25px;padding-left:15px;padding-right:15px;text-align:right;color:#fff;line-height:20px;}/*font-size:0.8em;*/
+.timelist li .left{width:35%;float:left;margin-left:5%;margin-top:20px;}
+.timelist li .left img{width:80%;margin-top:5px;margin-bottom:5px;}
+.timelist li .left .txt{overflow: hidden;text-overflow: ellipsis;white-space: nowrap;line-height:150%;}
+.timelist li .right{width:60%;float:right;text-align:left;padding-left:10px;padding-right:10px;}
+.timelist li .right h2{color:#fff;line-height:80px;padding-left:15px;text-align:left;}
+.timelist li .right h3{color:#fff;line-height:30px;text-align:left;font-size:1em;}
+.timelist li.info{height:260px;}
+.timelist li.info .right{padding-top:10px;line-height:150%;}
+.timelist li.info .name{color:#45aaf0;}
+.timelist li.info .txt{color:#45aaf0;}
+.timelist li.info .img{width:100%;}
+.timelist li.bg1{background-image:url("../img/bg1.gif");background-repeat:no-repeat;}
+.timelist li.bg2{background-image:url("../img/bg2.gif");background-repeat:no-repeat;}
+.timelist li.bg3{background-image:url("../img/bg3.gif");background-repeat:no-repeat;}
+.timelist li .pinfo{clear:both;}
+.timelist li .pinfo2{clear:both;padding:5px 5%;text-align:left;line-height:150%;}
+.timelist li .pinfo2 h3{font-size:1.2em;}
+.timelist li.pic{clear:both;display:block;border-bottom:0;}
+.timelist .tl{width:100%;}
+/*地址*/
+.dztit{background-color:#020a27;padding:5px;}
+.dztit img{width:100%;}
+.pic image,.dzpic image{width:100%;position:relative;}
+.dz{}
+.dzb{background-color:rgba(0,0,0,0.5);height:35px;line-height:35px;color:#fff;}
+/*座位*/
+.zwp{padding:0 2%;}
+.zwp img{width:100%;}
+.wzinfo {padding-left:5%;}
+.wzinfo .tit{color:#fff;font-size:1.3em;margin-top:10%;margin-bottom:3%;font-weight:bold;}
+.wzinfo .tit .blue{color:#27d1ff;font-size:1.1em;font-weight:bold;}
+.wzinfo .txt{line-height:200%;color:#fff;padding-right:5%;}
+.wzinfo .txt2{line-height:300%;color:#fff;padding-right:5%;}
+.wzinfo .txt2 .jg{color:#fff;font-size:1.5em;}
+
+/*抢票*/
+.qp{line-height:45px;font-size:1.3em;text-align:center;color:#fff;width:40%;height:45px;background-color:#45aaf0;border-radius:5px;display:block;margin:50px auto;font-weight:bold;}
+
+/*大会合作*/
+.hz{color:#fff;font-size:1.5em;line-height:200%;padding-left:5%;}
+.hz a{color:#fff;font-size:1em;line-height:200%;padding-left:5%;}
+/*问答*/
+.qa{color:#fff;padding:5px 4%;line-height:200%;}
+.qa .q{font-size:1.3em;}
+.qa .a{font-size:1em;}
+.qa .q .blue,.qa .a .blue{color:#45aaf0;}
+/*合作媒体*/
+.hzhb{color:#fff;}
+.hzhb h3{font-size:1.5em;text-align:center;font-weight:100;clear:both;}
+.hzhb img{width:100%;}
+.hzhb a{width:50%;float:left;display:block;padding:15px 5%;}
+/*页底*/
+.eq{width:50%;margin:30px auto;}
+.eq img{width:100%;}
+.totop{display:block;position:fixed;bottom:10%;right:0;}
+.totop img{width:60%;}
+@media (max-width:768px){
+
+
+}
+
+@media (min-width:768px){
+
+
+}
+
+
+
+
