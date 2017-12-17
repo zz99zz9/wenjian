@@ -500,7 +500,7 @@ end if
                 <!--小标1：-->
                 <img src="assets/img/tit11-1.png" class="tit2 wow fadeInUp ">
                 <div class="textbox wow fadeInUp">
-                    联系我们 >> 
+                    <a href="http://wenjianai.mikecrm.com/a7bf0uc" target="_blank">问见研习社合作申请——联系我们</a>
                 </div>
                 <!--小标2：-->
                 <img src="assets/img/tit11-2.png" class="tit2 wow fadeInUp mt10">
