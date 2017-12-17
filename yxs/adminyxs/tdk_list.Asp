@@ -58,7 +58,7 @@ rs.open sql,conn,1,1
             <td class="hidden-phone"><%= FormatDateTime(rs("uptime"),2) %></td>
             <td class="hidden-phone"><%=rs("oid")%></td>
 
-            <td  class="hidden"> 
+            <td > <!--  class="hidden"-->
               <a href="tdk_mod.asp?ID=<%=rs("id")%>" class="btn btn-success btn-xs">修改</a>
               <a href="?id=<%=rs("id")%>" onClick="return ConfirmDel();" class="btn btn-danger btn-xs">删除</a> </td>
           </tr>
