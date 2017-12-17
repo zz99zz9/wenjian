@@ -14,8 +14,8 @@ bsql = "select * from [tdk] where k='"&from&"'"
 brs.open bsql,conn,1,1
 if brs.bof and brs.eof then
 tit="问见研习社"
-url="http://wenjianai.mikecrm.com/SYJolul"
-key="wenjian"
+url="http://wenjianai.mikecrm.com/LoIMgXg"
+key="default"
 else
 tit=brs("t")
 key=brs("k")

@@ -90,7 +90,7 @@ action=request.QueryString("Action")
 delid=request.QueryString("pid")
 if action="Del" then
 conn.execute "delete from [tdk] where id="&Trim(delid)
-response.Redirect("tdk_lisk.Asp?sta=del")
+response.Redirect("tdk_list.Asp?sta=del")
 end if
 %>
   <script type="text/javascript">
