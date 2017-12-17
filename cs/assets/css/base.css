@@ -31,6 +31,7 @@ body{background-image:url("../img/bg.png");background-size:cover;background-posi
 .h20{height:20px;}
 .qab,.qa2b{display:none;}
 .arr{width:12px;float:right;margin-top:20px;}
+a{color:#0FCCFA;}
 @media (max-width:768px){
 
 
