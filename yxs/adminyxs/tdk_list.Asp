@@ -60,7 +60,7 @@ rs.open sql,conn,1,1
 
             <td > <!--  class="hidden"-->
               <a href="tdk_mod.asp?ID=<%=rs("id")%>" class="btn btn-success btn-xs">修改</a>
-              <a href="?id=<%=rs("id")%>" onClick="return ConfirmDel();" class="btn btn-danger btn-xs">删除</a> </td>
+              <a href="?pid=<%=rs("id")%>&Action=Del" onClick="return ConfirmDel();" class="btn btn-danger btn-xs">删除</a> </td>
           </tr>
           <%
 	i=i+1
@@ -89,8 +89,8 @@ rs.open sql,conn,1,1
 action=request.QueryString("Action")
 delid=request.QueryString("pid")
 if action="Del" then
-conn.execute "delete from [prod] where prod_id="&Trim(delid)
-response.Redirect("Prod_List.Asp?Prod_Type="&classid&"&sta=del")
+conn.execute "delete from [tdk] where id="&Trim(delid)
+response.Redirect("tdk_lisk.Asp?sta=del")
 end if
 %>
   <script type="text/javascript">

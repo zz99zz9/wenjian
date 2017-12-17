@@ -58,7 +58,7 @@ set rs=server.CreateObject("adodb.recordset")
    	 else
      	Session.Timeout=999
      	response.cookies("adminname")=adminname  
-     	response.Redirect"lyb2.asp"
+     	response.Redirect"tdk_list.asp"
      end if
 End if	 
 %>
