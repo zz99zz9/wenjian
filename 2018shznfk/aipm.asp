@@ -506,7 +506,7 @@ AI在金融风控场景的应用，<br>
     <img src='xgwl/img/tit10.png'>
     
   </div>
-   <div class='wjinfo'>
+   <div class='wzinfo'>
     <p class="tit">问见</p>
   <p class="txt">问见是一个专注AI应用创新的科技媒体，以AI人物采访、AI产品洞察、AI应用创新研究以及举办AI应用创新大会为核心业务；通过优质内容输出，帮助人们更深刻的了解AI应用创新的前沿动态，帮助AI应用创新的领军企业获得更多赞誉，以促进AI应用产业的快速发展。
   </p>
