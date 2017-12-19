@@ -1,6 +1,6 @@
 .index{background-color:#060407;padding:0px 0 ;}
 .index img{width:100%;}
-body{background-image:url("../img/bg.jpg");max-width:750px;margin:0 auto;}
+body{background-image:url("../img/bg.jpg");max-width:750px;margin:0 auto;background-size: cover;}
 .wjbor{width:96%;margin-left:2%;padding:20px 10px;background-color:rgba(8,11,29,0.8);border-radius:5px;}
 h2{font-size:1.2em;color:#45aaf0;text-align: center;line-height:130%;font-weight:bold;}
 .info{font-size:1.2em;color:#fff;text-align:center;line-height:200%;}
