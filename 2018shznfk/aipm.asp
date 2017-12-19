@@ -501,11 +501,23 @@ AI在金融风控场景的应用，<br>
     <p class='a'><span class='blue'>A：</span>签到后会配发入场证，会场大门口安保人员检验合格后即可入场；</p>
 </div>
 </div>
+<!--关于我们-->
+<div class='ptit'>
+    <img src='xgwl/img/tit10.png'>
+    
+  </div>
+   <div class='hzhb'>
+    <h3>问见</h3>
+  问见是一个专注AI应用创新的科技媒体，以AI人物采访、AI产品洞察、AI应用创新研究以及举办AI应用创新大会为核心业务；通过优质内容输出，帮助人们更深刻的了解AI应用创新的前沿动态，帮助AI应用创新的领军企业获得更多赞誉，以促进AI应用产业的快速发展。
+  <h3>脉友会</h3>
+  “上海脉友会”成立于2015年8月，是脉脉在上海的线下活动品牌，致力打造一个聚焦“干货+社交”的社群服务平台，旨在为更多渴望成长的人带来专业和职场的提升；目前已经举办社群沙龙和大会累积数十场，在产品、技术、运营等专业领域拥有大量的用户积累，成为上海最具影响力的社群之一。
+  </div>
 <!--合作伙伴-->
 <div class='ptit'>
     <img src='xgwl/img/tit8.png'>
   </div>
   <div class='hzhb'>
+
     <h3>主办方</h3>
     <a href='http://maimai.cn/'><img src='xgwl/img/links/31.png'></a>
     <a href='http://www.wenjian.ai/'><img src='xgwl/img/links/32.png'></a>
@@ -514,7 +526,7 @@ AI在金融风控场景的应用，<br>
     <a href='http://www.wenjian.ai/'><img src='xgwl/img/links/42.png'></a>
     <a href='http://edu.tv.sohu.com/'><img src='xgwl/img/links/43.png'></a>
     <a href='https://www.analysys.cn/'><img src='xgwl/img/links/44.png'></a>
-<!--    <h3>协办方</h3>
+<!-- <h3>协办方</h3>
     <h3>战略合作伙伴</h3>-->
     <h3>合作支持机构</h3>
     <!--<img src='xgwl/img/link3.png'>-->
