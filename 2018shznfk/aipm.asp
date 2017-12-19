@@ -413,9 +413,7 @@ AI在金融风控场景的应用，<br>
   <img src='xgwl/img/tit4.png'>
 </div>
 </div>
-<div class='dztit'>
-  <img src='xgwl/img/dz.png'>
-</div>
+
 <div class='pic'>
   <a href="map1.html">
   <img src='xgwl/img/dzpic2.jpg'>
