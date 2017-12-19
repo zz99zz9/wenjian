@@ -45,19 +45,27 @@ end if
 </div>
 <div class="container">
   <div class="wjbor">
-    <h2>Be Changed <br>
-      or Make changes</h2>
+
       <div class='info'><span class='h1'>未来已来！</span><br>
         
-        我们正在从互联网时代跨入<em>AI</em> 时代，<br>
-        一切正在被快速改变……<br>
-        同样，包括我们！<br>
-        被改变，或作出改变……<br>
-        
-        参加<em>“AIPM Con 2017”</em>，<br>
-        打开<em>互联网PM</em>转型<em>AI PM</em>的脑洞！ <br>
-        现在，做出改变…<br>
-        或许能改变世界……</div>
+        AI正在掀起金融科技领域，<br>
+新一轮创新浪潮！<br>
+AI在金融风控场景的应用，<br>
+将带来金融服务效能的全面升级！<br><br>
+ 
+让信贷审批从天压缩到秒级，<br>
+让风控模型从数月迭代变为自动迭代，<br>
+让信用审核维度暴增到数千个，<br>
+用实时动态全息数据构建用户信用画像，<br>
+实现智能分析精确授信，<br>
+让黑产攻击无处隐形，<br>
+实现高精度反欺诈识别，<br>
+…………<br>
+基于AI构建金融风控大脑，<br>
+唤醒金融觉醒！<br><br>
+ 
+参加“2018中国智能风控创新大会”，<br>
+洞悉智能风控领域最前沿的科技创新！</div>
   </div>
   <div class='ptit'>
     <img src='xgwl/img/tit1.png'>
