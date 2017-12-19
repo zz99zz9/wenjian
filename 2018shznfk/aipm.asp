@@ -431,22 +431,20 @@ AI在金融风控场景的应用，<br>
   </div>
   <div class='wzinfo'>
     <p class='tit'><span class='blue'>A区：</span>晚宴票</p>
-    <p class='txt'>位于第1排紧邻分享嘉宾；课桌席位，带点心；参加当晚五星酒店豪华晚宴；与嘉宾深度探讨AI最新动态与趋势；充分交流解答所有疑问，同时结识AI领域高端人脉。</p><p class='txt2'><span class='jg'>1880</span>元/席位 （仅30席）</p>
+    <p class='txt'>位于第2排，紧邻分享嘉宾；课桌席位，带点心；参加当晚五星酒店豪华晚宴；与嘉宾深度探讨智能风控最新动态与趋势；充分交流解答所有疑问，同时结识金融风控领域高端人脉；并提供免费停车位；邀请加入晚宴票微信群。</p><p class='txt2'><span class='jg'>1880</span>元/席位 （仅18席）</p>
   </div>
-  <div class='pic'>
-      <img src='xgwl/img/zwp.jpg'>
-    </div>
+
     <div class='wzinfo'>
         <p class='tit'><span class='blue'>B区：</span>VIP票</p>
-        <p class='txt'>位于第2-4排紧邻分享嘉宾；课桌席位，带点心；舞台近在咫尺，PPT清晰可见，嘉宾演讲清晰洪亮，参会聆听绝佳位置。</p><p class='txt2'><span class='jg'>380</span>元/席位 （仅量90席）</p>
+        <p class='txt'>位于第3-5排；课桌席位，带点心；舞台近在咫尺，PPT清晰可见，嘉宾演讲清晰洪亮，参会聆听绝佳位置；并提供免费停车位；邀请加入VIP票微信群。</p><p class='txt2'><span class='jg'>380</span>元/席位 （仅380席）</p>
       </div>
       <div class='wzinfo'>
           <p class='tit'><span class='blue'>C区：</span>中场票</p>
-          <p class='txt'>座位排在第5到第14排，剧院式坐席。按号售票模式，越早购买，座位越靠前。</p><p class='txt2'><span class='jg'>180</span>元/席位 （仅量300席）</p>
+          <p class='txt'>座位排在第6到第10排，剧院式坐席。按号售票模式，越早购买，座位越靠前面，邀请加入中场票微信群。</p><p class='txt2'><span class='jg'>280</span>元/席位 （限105席）</p>
         </div>
         <div class='wzinfo'>
             <p class='tit'><span class='blue'>D区：</span>普通票</p>
-            <p class='txt'>座位排在第15到第35排，剧院式坐席。按号售票模式，越早购买，座位越靠前面。</p><p class='txt2'><span class='jg'>128</span>元/席位 （仅量600席）</p>
+            <p class='txt'>座位排在第11到第16排，剧院式坐席。按号售票模式，越早购买，座位越靠前面，邀请加入普通票微信群。</p><p class='txt2'><span class='jg'>180</span>元/席位 （限126席）</p>
           </div>
   <!--立即报名 -->
   <a href="<%=url%>"  class='qp'>立即报名</a>
@@ -466,41 +464,41 @@ AI在金融风控场景的应用，<br>
   <div class="pwxg">
   <div class='qa '>
     <p class='q'><span class='blue'>Q1：</span>购票截止时间？</p>
-    <p class='a'><span class='blue'>A1：</span>2017年9月20日或者门票售罄。</p>
+    <p class='a'><span class='blue'>A1：</span>2018年01月18日或者门票售罄。</p>
   </div><div class='qa '>
-    <p class='q'><span class='blue'>Q2：</span>四类票种的数量、费用及区别：晚宴票、课桌票、中场票、普通票？</p>
-    <p class='a'><span class='blue'>A1：</span>晚宴票——仅限30张，1800元/张；座位在第1排紧邻分享嘉宾，课桌式席位，带水果点心；参加当日五星酒店豪华晚宴，与大会分享嘉宾共进晚餐，深度探讨AI领域最新动态与趋势；提问咨询或者私下交流充分解答个人疑问；结交行业高人打通AI领域高端人脉。</p>
-      <p class='a'><span class='blue'>A2：</span>课桌票——仅限90张，380元/张；座位排在第2到第4排，课桌式席位，带水果点心；舞台近在咫尺，PPT清晰可见，嘉宾演讲清晰洪亮，参会聆听绝佳位置。</p>
-        <p class='a'><span class='blue'>A3：</span>中场票——300张，180元/张；座位排在第5到第14排，剧院式坐席；</p>
-          <p class='a'><span class='blue'>A4：</span>普通票——600张，128元/张；座位排在第15到第35排，剧院式坐席；</p>
+    <p class='q'><span class='blue'>Q2：</span>四类票种的数量、费用及区别：晚宴票、VIP票、中场票、普通票？</p>
+    <p class='a'><span class='blue'>A1：</span>晚宴票——仅限18张，1880元/张；座席紧邻第一排分享嘉宾，课桌式席位，带水果点心；参加当日五星酒店豪华晚宴，与大会分享嘉宾共进晚餐，探讨行业内有的深度的问题；提问咨询或者私下交流充分解答个人疑问；结交金融风控领域高端人脉，邀请加入晚宴票微信群。</p>
+      <p class='a'><span class='blue'>A2：</span>VIP票——仅限54张，380元/张；座位排在第3到第5排，课桌式席位，带水果点心；舞台近在咫尺，PPT清晰可见，嘉宾演讲清晰洪亮，参会聆听绝佳位置，邀请加入VIP票微信群。</p>
+        <p class='a'><span class='blue'>A3：</span>中场票——105张，280元/张；座位排在第6到第10排，剧院式坐席；邀请加入中场票微信群。</p>
+          <p class='a'><span class='blue'>A4：</span>普通票——126张，180元/张；座位排在第11到第16排，剧院式坐席；邀请加入普通票微信群。</p>
   </div>  <div class='qa'>
       <p class='q'><span class='blue'>Q3：</span>门票是否接受现场购买？</p>
-      <p class='a'><span class='blue'>A：</span>门票为提前座位号预定模式，不接受现场购买；座位号一经售出将被锁定，即时购票方因故不能出席，座位也将预留。</p>
+      <p class='a'><span class='blue'>A：</span>门票为提前座位号预定模式，不接受现场购买；座位号一经售出将被锁定，即使购票方因故不能出席，座位也将预留。</p>
     </div>  <div class='qa'>
       <p class='q'><span class='blue'>Q4：</span>购票成功后，如何获得参会凭证？</p>
-  <p class='a'><span class='blue'>A：</span>当您付款成功后，我们将于当日晚12点前向您发送邮件，内容包含座位号和验证码（签到时兑换参会证）。</p>
+  <p class='a'><span class='blue'>A：</span>当您付款成功后，我们将于3个工作日内向您发送邮件、短信，内容包含邀请函、验证码（签到时兑换参会证）和群。</p>
 </div>  <div class='qa'>
-  <p class='q'><span class='blue'>Q5：</span>如何购买团体票？</p>
-  <p class='a'><span class='blue'>A：</span>本次大会不设团体票折扣，如需购买多张，在购票页面填写相应数量并完成付款即可。</p>
+  <p class='q'><span class='blue'>Q5：</span>如何购买团体票及开具发票说明？</p>
+  <p class='a'><span class='blue'>A：</span>本次大会不设团购票折扣，如需购买多张，在购票页面填写相应数量并完成付款即可。单个手机号用户购票金额超过1000元可申请开发票，可开具1张发票；购票金额低于1000元，不提供发票，请谅解；发票申请请到问见公众号“申请门票发票”提交表单，开票时间为大会结束后2周内统一邮寄。</p>
 </div>  <div class='qa'>
-  <p class='q'><span class='blue'>Q6：</span>关于退票与发票？</p>
-  <p class='a'><span class='blue'>A：</span>本次大会无法办理退票，请您确认好日程和内容后购买；不能提供发票请谅解。</p>
+  <p class='q'><span class='blue'>Q6：</span>关于退票？</p>
+  <p class='a'><span class='blue'>A：</span>本次大会门票无法办理退票，请您确认好日程和内容后购买；门票可转让他人使用。</p>
   </div>
 </div>
-  <div class="tline tline2" id='timelist' onclick='javascript:hid(".xchd")'>2、现场活动<i class=' tra'></i></div>
+  <div class="tline tline2" id='timelist' onclick='javascript:hid(".xchd")'>2、会务相关<i class=' tra'></i></div>
   <div class='xchd'>
   <div class='qa'>
-      <p class='q'><span class='blue'>Q1：</span>购票用户是否有免费停车位？</p>
-      <p class='a'><span class='blue'>A：</span>我们向酒店预订200个停车位向购票用户免费提供。</p>
+      <p class='q'><span class='blue'>Q1：</span>酒店所在位置及交通？</p>
+      <p class='a'><span class='blue'>A：</span>上海市浦东大道535号，裕景大饭店5楼裕景宴会厅，位于陆家嘴核心区；地铁4号线浦东大道地铁站旁边。</p>
 </div>  <div class='qa'>
-    <p class='q'><span class='blue'>Q2：</span>现场如何签到？</p>
-    <p class='a'><span class='blue'>A：</span>到达酒店后到对应的票种签到处，提供验证码获取参会证（含座位号），礼仪小姐引领进入会场后对号入座。</p>
+    <p class='q'><span class='blue'>Q2：</span>购票用户是否有免费停车位？</p>
+    <p class='a'><span class='blue'>A：</span>我们将为购买晚宴门票和VIP门票的贵宾提供免费停车位，一张门票赠送一张免费停车券，签到处领取；酒店内停车位费用为10元/小时。</p>
 </div>  <div class='qa'>
-    <p class='q'><span class='blue'>Q3：</span>大会会场入场凭证？</p>
-    <p class='a'><span class='blue'>A：</span>签到后会配发入场证，会场大门口安保人员检验合格后即可入场；</p>
+    <p class='q'><span class='blue'>Q3：</span>现场如何签到？</p>
+    <p class='a'><span class='blue'>A：</span>到达酒店内大会签到台后到对应的票种签到处，提供验证码获取参会证（含座位号），礼仪小姐引领进入会场后对号入座。</p>
 </div>   <div class='qa'>
-    <p class='q'><span class='blue'>Q4：</span>大会是否有微信群？</p>
-    <p class='a'><span class='blue'>A：</span>大会签到成功进入会场后会会发现，四周墙上张贴有大会群二维码，扫码即可入群。</p>
+    <p class='q'><span class='blue'>Q4：</span>大会会场入场凭证？</p>
+    <p class='a'><span class='blue'>A：</span>签到后会配发入场证，会场大门口安保人员检验合格后即可入场；</p>
 </div>
 </div>
 <!--合作伙伴-->
