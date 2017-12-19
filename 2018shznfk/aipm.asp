@@ -434,7 +434,7 @@ AI在金融风控场景的应用，<br>
 
     <div class='wzinfo'>
         <p class='tit'><span class='blue'>B区：</span>VIP票</p>
-        <p class='txt'>位于第3-5排；课桌席位，带点心；舞台近在咫尺，PPT清晰可见，嘉宾演讲清晰洪亮，参会聆听绝佳位置；并提供免费停车位；邀请加入VIP票微信群。</p><p class='txt2'><span class='jg'>380</span>元/席位 （仅380席）</p>
+        <p class='txt'>位于第3-5排；课桌席位，带点心；舞台近在咫尺，PPT清晰可见，嘉宾演讲清晰洪亮，参会聆听绝佳位置；并提供免费停车位；邀请加入VIP票微信群。</p><p class='txt2'><span class='jg'>380</span>元/席位 （仅54席）</p>
       </div>
       <div class='wzinfo'>
           <p class='tit'><span class='blue'>C区：</span>中场票</p>
