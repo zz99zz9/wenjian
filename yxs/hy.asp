@@ -226,7 +226,7 @@ end if
             <img src="assets/img/tit11.png" class="tit1 wow fadeInUp">
             <img src="assets/img/tit11-1.png" class="tit2 wow fadeInUp">
             <div class="textbox wow fadeInUp">
-                <a href="http://wenjianai.mikecrm.com/8nuJGwo" target="_blank">问见研习社合作申请——联系我们</a>
+                <a href="http://wenjianai.mikecrm.com/8nuJGwo" target="_blank">联系我们>></a>
             </div>
             <img src="assets/img/tit11-2.png" class="tit2 wow fadeInUp mt10">
             
