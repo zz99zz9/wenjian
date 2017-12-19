@@ -459,7 +459,7 @@ AI在金融风控场景的应用，<br>
     <img src='xgwl/img/tit7.png'>
   </div>
   <div class="tline tline2" id='timelist' onclick='javascript:hid(".pwxg")'>1、票务相关<i class=' tra'></i></div>
-  <div class="pwxg">
+  <div class="pwxg " style="display:none;">
   <div class='qa '>
     <p class='q'><span class='blue'>Q1：</span>购票截止时间？</p>
     <p class='a'><span class='blue'>A1：</span>2018年01月18日或者门票售罄。</p>
@@ -484,7 +484,7 @@ AI在金融风控场景的应用，<br>
   </div>
 </div>
   <div class="tline tline2" id='timelist' onclick='javascript:hid(".xchd")'>2、会务相关<i class=' tra'></i></div>
-  <div class='xchd'>
+  <div class='xchd' style="display:none;">
   <div class='qa'>
       <p class='q'><span class='blue'>Q1：</span>酒店所在位置及交通？</p>
       <p class='a'><span class='blue'>A：</span>上海市浦东大道535号，裕景大饭店5楼裕景宴会厅，位于陆家嘴核心区；地铁4号线浦东大道地铁站旁边。</p>
