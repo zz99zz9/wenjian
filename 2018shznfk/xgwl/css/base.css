@@ -3,7 +3,7 @@
 body{background-image:url("../img/bg.jpg");max-width:750px;margin:0 auto;background-size: cover;}
 .wjbor{width:96%;margin-left:2%;padding:20px 10px;background-color:rgba(8,11,29,0);border-radius:5px;}
 h2{font-size:1.2em;color:#45aaf0;text-align: center;line-height:130%;font-weight:bold;}
-.info{font-size:1.2em;color:#fff;text-align:center;line-height:200%;}
+.info{font-size:1em;color:#fff;text-align:center;line-height:160%;}
 .info .h1{font-size:1.5em;}
 .info em{color:#43A9F0;font-weight:bold;}
 .picinfo .info .txt{line-height:150%;}
