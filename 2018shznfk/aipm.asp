@@ -46,7 +46,7 @@ end if
 <div class="container">
   <div class="wjbor">
 
-      <div class='info'><span class='h1'>未来已来！</span><br>
+      <div class='info'>
         
         AI正在掀起金融科技领域，<br>
 新一轮创新浪潮！<br>
