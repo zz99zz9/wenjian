@@ -111,7 +111,7 @@ h2{font-size:1.2em;color:#45aaf0;text-align: center;line-height:130%;font-weight
 .totop{display:block;position:fixed;bottom: 4%;right: -30px;z-index: 10;width: 80px;}
 .totop img{width:60%;}
 .gz{color:#fff;text-align:center;font-size:0.8em;line-height:180%;}
-.footerlogo{width:60%;margin-left:20%;margin-top:10px;}
+.footerlogo{width:40% !important;margin-left:30%;margin-top:10px;}
 @media (max-width:768px){
 
 
