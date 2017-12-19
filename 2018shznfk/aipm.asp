@@ -570,7 +570,7 @@ AI在金融风控场景的应用，<br>
     <div class='pic'>
        <p class="gz">长按关注更多<br>
                         AI人物专访·AI社群活动·AI行业大会</p>
-                <img src="xgwl/img/link2.png" class="footerlogo">
+                <img src="xgwl/img/link9.png" class="footerlogo">
     </div>
     <!--悬浮报名-->
     <a class='totop' href='<%=url%>'><img src='xgwl/img/totop.png'></a>
