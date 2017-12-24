@@ -60,7 +60,7 @@ h2{font-size:1.2em;color:#45aaf0;text-align: center;line-height:130%;font-weight
 .timelist li .right{width:60%;float:right;text-align:left;padding-left:10px;padding-right:10px;}
 .timelist li .right h2{color:#fff;line-height:80px;padding-left:15px;text-align:left;}
 .timelist li .right h3{color:#fff;line-height:30px;text-align:left;font-size:1em;}
-.timelist li.info{min-height:260px;}
+.timelist li.info{}
 .timelist li.info .right{padding-top:10px;line-height:150%;}
 .timelist li.info .name{color:#45aaf0;}
 .timelist li.info .txt{color:#45aaf0;}

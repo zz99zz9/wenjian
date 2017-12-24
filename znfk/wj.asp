@@ -460,7 +460,7 @@ AI在金融风控场景的应用，<br>
 
 </li>
   <img src="xgwl/img/infoline.png" class='tl'>
-<li class='info bg3'>
+<li class='info bg2'>
     <div class="timer">19:00</div>
    <div class='pinfo'>
   <div class="left"></div>
