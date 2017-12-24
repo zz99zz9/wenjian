@@ -644,20 +644,20 @@ AI在金融风控场景的应用，<br>
     <a ><img src='xgwl/img/links/27.png'></a>
 
     <h3>战略合作媒体</h3>
-    <a href='http://www.iyiou.com/'><img src='xgwl/img/links/11.png'></a>
-    <a href='http://www.geekpark.net/'><img src='xgwl/img/links/12.png'></a>
-    <a href='http://36kr.com/'><img src='xgwl/img/links/14.png'></a>
-    <a href='http://www.sootoo.com/'><img src='xgwl/img/links/15.png'></a>
-    <a href='http://www.pintu360.com/'><img src='xgwl/img/links/16.png'></a>
-    <a href='http://www.lieyunwang.com/'><img src='xgwl/img/links/17.png'></a>
-    <a href='http://www.ctoutiao.com/'><img src='xgwl/img/links/18.png'></a>
-    <a ><img src='xgwl/img/links/23.png'></a>
-    <a href='http://www.baosoft.cn/'><img src='xgwl/img/links/24.png'></a>
-    <a href='http://it.sohu.com/'><img src='xgwl/img/links/111.png'></a>
-    <a href='http://news.ifeng.com/app/'><img src='xgwl/img/links/112.png'></a>
-    <a href='http://tech.163.com/'><img src='xgwl/img/links/113.png'></a>
-    <a href='http://tech.sina.com.cn/'><img src='xgwl/img/links/114.png'></a>
-    <a href='http://tech.qq.com/'><img src='xgwl/img/links/115.png'></a>
+    <a href='http://www.iyiou.com/'><img src='xgwl/img/links2/11.png'></a>
+    <a href='http://www.geekpark.net/'><img src='xgwl/img/links2/12.png'></a>
+    <a href='http://36kr.com/'><img src='xgwl/img/links2/14.png'></a>
+    <a href='http://www.sootoo.com/'><img src='xgwl/img/links2/15.png'></a>
+    <a href='http://www.pintu360.com/'><img src='xgwl/img/links2/16.png'></a>
+    <a href='http://www.lieyunwang.com/'><img src='xgwl/img/links2/17.png'></a>
+    <a href='http://www.ctoutiao.com/'><img src='xgwl/img/links2/18.png'></a>
+    <a ><img src='xgwl/img/links2/23.png'></a>
+    <a href='http://www.baosoft.cn/'><img src='xgwl/img/links2/24.png'></a>
+    <a href='http://it.sohu.com/'><img src='xgwl/img/links2/111.png'></a>
+    <a href='http://news.ifeng.com/app/'><img src='xgwl/img/links2/112.png'></a>
+    <a href='http://tech.163.com/'><img src='xgwl/img/links2/113.png'></a>
+    <a href='http://tech.sina.com.cn/'><img src='xgwl/img/links2/114.png'></a>
+    <a href='http://tech.qq.com/'><img src='xgwl/img/links2/115.png'></a>
 
 
   </div>
