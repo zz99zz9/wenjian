@@ -411,7 +411,7 @@ AI在金融风控场景的应用，<br>
 </div>
 </li>
 <img src="xgwl/img/infoline.png" class='tl'>
-<li class='info bg3'>
+<li class='info '>
     <div class="timer">16:10</div>
     <div class='pinfo'>
   <div class="left"><img src='xgwl/img/p4.png'></div>
@@ -424,7 +424,7 @@ AI在金融风控场景的应用，<br>
 </div>
 </li>
 <img src="xgwl/img/infoline.png" class='tl'>
-<li class='info bg3'>
+<li class='info bg2'>
     <div class="timer">16:30</div>
     <div class='pinfo'>
   <div class="left"><img src='xgwl/img/p10.png'></div>
@@ -438,13 +438,13 @@ AI在金融风控场景的应用，<br>
 </li>
 
     <img src="xgwl/img/infoline.png" class='tl'>
-    <li class='bg2'>
+    <li class='bg3'>
         <div class="timer">16:50</div>
       <div class="left"></div>
     <div class="right"><h2>更多嘉宾</h2></div>
   </li>
   <img src="xgwl/img/infoline.png" class='tl'>
-<li class='info bg3'>
+<li class='info '>
     <div class="timer">17:30</div>
    <div class='pinfo'>
   <div class="left"></div>
@@ -470,11 +470,11 @@ AI在金融风控场景的应用，<br>
 
 </li>
 <img src="xgwl/img/infoline.png" class='tl'>
-<li class='info bg3'>
-    <div class="timer">21:00</div>
+<li class='info '>
+
        <div class='pinfo'>
   <div class="left"></div>
-<div class="right"><h2></h2></div>
+<div class="right"><h2>结束</h2></div>
 </div>
 <div class='pinfo2' style="color:#fff;"><a href="http://wenjianai.mikecrm.com/7MiZJrm" target="blank" style="color:#45aaf0;">圆桌论坛提问征集>></a></div>
 </li>
