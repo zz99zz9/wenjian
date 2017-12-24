@@ -86,15 +86,15 @@ AI在金融风控场景的应用，<br>
                     </div>
                     <div class='info'>
                       <div class='name'>
-                          李智
+                          石鹏峰
                       </div>
-                      <div class='txt'>易观智慧院<br>院长</div>
+                      <div class='txt'>网贷之家联合创始人<br>盈灿集团副总裁</div>
                     </div>
                   </div>
                   <div class='picinfo2'>
-                      <div class='txt1'>易观智慧院——基于AI技术的大数据分析与应用研究机构</div>
+                      <div class='txt1'>网贷之家——中国首家权威的P2P网贷行业门户网站</div>
                       <img src='xgwl/img/infoline.png'>
-                      <div class='txt2'>2007年加入易观，现任易观副总裁，智慧院院长，负责人工智能实验室构建。具有10年互联网行业分析经验，对大数据价值挖掘，人工智能应用场景、数字用户资产管理运营等有丰富经验；任中国商务广告协会数字营销研究中心秘书长，金鼠标营销奖项评委，网易智库、蚂蚁金服专家等外职。</div>
+                      <div class='txt2'>清华大学经管学院行业导师、上海市法学会金融法研究会互联网金融法律实务研究中心主任、上海浦东国际金融学会互联网金融专委会主任、华东政法大学互联网金融法律研究中心特约研究员；2011年投身互联网金融行业，致力于为网贷行业提供全面、专业、深入、个性化的行业资讯服务。创建行业首个交易行为数据库，通过深度数据挖掘，务实服务于网贷行业透明度建设和投资者风险教育。曾8次赴欧美代表中国互联网金融行业出席和主持多个国际会议并发表关于中国互联网金融行业发展现状及未来趋势的报告演讲。</div>
                     </div>
                 </div>
               </div>
@@ -106,15 +106,15 @@ AI在金融风控场景的应用，<br>
                     </div>
                     <div class='info'>
                       <div class='name'>
-                          赵恒艺
+                          李晓忠
                       </div>
-                      <div class='txt'>思必驰<br>副总裁</div>
+                      <div class='txt'>麦子金服-VP——国家智能计算机研究中心<br>比利时核研究中心 从师博士后研究</div>
                     </div>
                   </div>
                   <div class='picinfo2'>
-                      <div class='txt1'>AI Speech——代表AI语音交互技术国际前沿水平</div>
+                      <div class='txt1'>麦子金服——中国移动金融科技先行者，让金融温暖而可及</div>
                       <img src='xgwl/img/infoline.png'>
-                      <div class='txt2'>武汉大学计算机硕士，近十年的AI语音技术研发及团队管理经验。2015年组建乐视AI研发团队“乐乐语音”出任CEO，负责核心语音技术、产品化方案、开放平台、语音交互智能硬件。2017年1月加入思必驰，负责思必驰核心系统—DUI开发者平台的搭建。</div>
+                      <div class='txt2'>2016年加入麦子金服，全面负责风控中心工作；2014年加入陆金所，担任执委、零售业务CRO；2010年加入上汽通用汽车金融，担任CRO；1998至2010年担任FICO亚太区反欺诈负责人及首席科学家。国内外发表论文40余篇，模糊神经网络学科的开创人；3项欧洲专利和2项中国在审专利；2003年中国科学院百人计划入选人，2010年获亚洲银行家最佳数据分析奖；2017年因其“水滴风控”获上海市外国专家局资助。</div>
                     </div>
                 </div></div>
             <div class="swiper-slide" style="background-image:url(img/nature3.jpg)">
@@ -125,15 +125,15 @@ AI在金融风控场景的应用，<br>
                     </div>
                     <div class='info'>
                       <div class='name'>
-                          王洪远
+                          顾威
                       </div>
-                      <div class='txt'>小i机器人<br>AI产品创新负责人</div>
+                      <div class='txt'>同盾科技-副总裁</div>
                     </div>
                   </div>
                   <div class='picinfo2'>
-                      <div class='txt1'>全球领先的智能机器人平台和架构提供者</div>
+                      <div class='txt1'>国内专业的第三方智能风险管理服务商，智能风险管理引领者！</div>
                       <img src='xgwl/img/infoline.png'>
-                      <div class='txt2'>小i机器人——1997年加入江苏金钛软件任Call Center GM；2001年加入Avaya China任高级系统架构师、技术顾问；2016年加入小i机器人，任AI产品创新负责人。18年通信专家，3年专注AI产品研究，3项AI产品发明专利，对人AI发展现状、技术能力、产业应用有独到见解。</div>
+                      <div class='txt2'>2016年加入同盾科技担任副总裁；2011年加入Experian（益博睿决策分析：全球排名第一征信公司），担任益博睿中国区副总裁；2007年回国入职FICO，担任专业服务资深经理；之前在北美工作十多年；具有多年金融服务业风险管理咨询和系统实施经验。</div>
                     </div>
                 </div></div>
             <div class="swiper-slide" style="background-image:url(img/nature4.jpg)">
@@ -144,15 +144,15 @@ AI在金融风控场景的应用，<br>
                     </div>
                     <div class='info'>
                       <div class='name'>
-                          路荣博士
+                          唐科伟
                       </div>
-                      <div class='txt'>妙计旅行<br>联合创始人<br>研发负责人</div>
+                      <div class='txt'>前蚂蚁金服微贷平台-风险部总经理<br>孚临金科 创始人————英国诺丁汉大学计算金融学博士</div>
                     </div>
                   </div>
                   <div class='picinfo2'>
-                      <div class='txt1'>妙计旅行——基于AI技术的全新旅程规划智能定制平台</div>
+                      <div class='txt1'>孚临金科——基于人工智能、大数据信贷风控的智能金融科技公司</div>
                       <img src='xgwl/img/infoline.png'>
-                      <div class='txt2'>中科院自动化研究所博士；2011-2013年任负责搜狗语音助手搜索技术的研发；2013年加入妙计科技，担任妙计智能规划系统的研发负责人；在自然语言处理、语音搜索、机器学习等AI领域有丰富研发经验。</div>
+                      <div class='txt2'>在蚂蚁金服先后担任网商银行外部平台风险总经理，农村金融风险和政府合作等负责人，负责风控能力输出和数据合作；十二年英国科研和工作经验，曾先后担任苏格兰皇家银行和巴克莱伦敦全球总部风险高级主管；2016年蚂蚁金服唯一入选杭州海归高层次人才计划，2015年证监会唯一国家千人计划推荐专家。</div>
                     </div>
                 </div></div>
             <div class="swiper-slide" style="background-image:url(img/nature5.jpg)">
@@ -163,15 +163,15 @@ AI在金融风控场景的应用，<br>
                     </div>
                     <div class='info'>
                       <div class='name'>
-                          杨威
+                          冯炯
                       </div>
-                      <div class='txt'>明略数据<br>技术合伙人<br>产品负责人</div>
+                      <div class='txt'>你我贷-CTO<br>上海交大计算机硕士<br>美国西雅图大学MBA学位</div>
                     </div>
                   </div>
                   <div class='picinfo2'>
-                      <div class='txt1'>明略数据——基于行业人工智能大脑的AI赋能服务商</div>
+                      <div class='txt1'>你我贷——运用数字化技术推动征信体系建设，助力中国普惠金融新生态的构建</div>
                       <img src='xgwl/img/infoline.png'>
-                      <div class='txt2'>毕业于北大计算机系，2010年加入秒针系统负责广告监测、投放、交易、及大数据平台架构研发，2014年加入明略数据，现在是明智系统产品线负责人；具有5年大数据、AI产品和项目经验，在海量数据处理、数据挖掘、知识图谱领域有丰富经验。</div>
+                      <div class='txt2'>曾就职于美国微软，从事研发工作约十年，参与了SQLServer2005的开发。回国后在担任阿里巴巴技术总监四年期间，带领过B2B搜索广告的算法研发团队、阿里金融的余额宝研发团队和淘宝保险研发团队，后任职金山猎豹移动首席架构师。拥有近二十年世界顶尖企业的技术研发和项目管理经验。</div>
                     </div>
                 </div></div>
                 <div class="swiper-slide" style="background-image:url(img/nature5.jpg)">
@@ -182,15 +182,15 @@ AI在金融风控场景的应用，<br>
                         </div>
                         <div class='info'>
                           <div class='name'>
-                              翁嘉颀
+                             梅臻
                           </div>
-                          <div class='txt'>竹间智能<br>CTO</div>
+                          <div class='txt'>法大大联合创始人<br>首席法务官——清华大学民商法硕士</div>
                         </div>
                       </div>
                       <div class='picinfo2'>
-                          <div class='txt1'>竹间智能——情感计算+人工智能=情感机器人</div>
+                          <div class='txt1'>法大大——便捷、安全、合规的第三方电子合同平台，守护互联网时代的契约精神。</div>
                           <img src='xgwl/img/infoline.png'>
-                          <div class='txt2'>台湾大学计算机本科，纽约州立大学计算机硕士。1982年起坐在电脑前面至今，用过编程语言超过37种，网络开课超过 16年；熟悉算法，搜索引擎，邮箱安全，系统工程与架构。见证互联网的起起落落一直到AI的崛起。</div>
+                          <div class='txt2'>法大大联合创始人兼首席法务官，深圳市律师协会业务创新和发展委员会副主任，中国电子签名、电子签章法律研究专家，对跨领域的电子签名应用法律合规有深入研究并发表了相关的行业调研报告，推动电子签名在金融、B2B、OTA、HR领域的应用。同时也是中国最早一批投身区块链法律存证应用研究的法律专家，积极推进电子存证进程。</div>
                         </div>
                     </div></div>
                     <div class="swiper-slide" style="background-image:url(img/nature5.jpg)">
@@ -201,15 +201,15 @@ AI在金融风控场景的应用，<br>
                             </div>
                             <div class='info'>
                               <div class='name'>
-                                  苏湘
+                                  吴晓春
                               </div>
-                              <div class='txt'>捷通华声<br>金融AI产品负责人</div>
+                              <div class='txt'>小赢科技 高级风控模型总监——美国罗格斯大学统计学硕士<br>意大利SISSA-ICTP数学硕士</div>
                             </div>
                           </div>
                           <div class='picinfo2'>
-                              <div class='txt1'>捷通华声——专注语音语义、图像及生物特征识别的AI研究与应用企业</div>
+                              <div class='txt1'>小赢科技——基于互联网和数据构建全新金融服务生态的科技金融公司</div>
                               <img src='xgwl/img/infoline.png'>
-                              <div class='txt2'>华东理工硕士，曾就职于西门子，诺基亚。现负责捷通华声金融领域AI产品，参与主导中国银行、招商银行、平安保险、麦子金服、拍拍贷、51信用卡等十多家金融机构的AI项目，对金融行业需求及AI产品与解决方案有深度研究和实战经验。</div>
+                              <div class='txt2'>上海复旦大学数学学士毕业后就读意大利和美国进行数学和统计学深造；08-11年入职美国汤森路透集团负责大数据挖掘和评分模型的建设；11-15年入职美国发现信用卡公司负责风险模型开发及团队管理；15-16年入职平安陆金所担任抵押风险管理部负责人，负责抵押产品风控模型体系构建；16年加入小赢科技，负责风险模型的开发和风控系统构建。</div>
                             </div>
                         </div></div>
                         <div class="swiper-slide" style="background-image:url(img/nature5.jpg)">
@@ -220,15 +220,53 @@ AI在金融风控场景的应用，<br>
                                 </div>
                                 <div class='info'>
                                   <div class='name'>
-                                      黄钊
+                                      白冬立
                                   </div>
-                                  <div class='txt'>图灵机器人<br>人才战略官</div>
+                                  <div class='txt'>热云-CEO</div>
                                 </div>
                               </div>
                               <div class='picinfo2'>
-                                  <div class='txt1'>图灵机器人——中文语境下智能度最高的机器人大脑</div>
+                                  <div class='txt1'>热云数据——为行业客户提供分析、决策等数据服务，让数据创造价值。</div>
                                   <img src='xgwl/img/infoline.png'>
-                                  <div class='txt2'>现任图灵机器人人才战略官，前腾讯产品经理，5年AI实战经验，8年互联网经历；目前专注AI PM成长研究，著有200页PPT《人工智能产品经理的新起点》广受好评。</div>
+                                  <div class='txt2'>热云数据创始人兼CEO；曾任Zynga（之前美国社交游戏巨头）北京BI总监，全面负责Zynga北京的数据分析和数据系统研发工作，并直接汇报美国总部CEO；曾加入热酷游戏担任架构师，负责公司核心数据仓库系统搭建。创建热云前，入职互爱科技担任BI部门和海外游戏运营两大核心部门负责人。在大数据分析、挖掘与应用领域深耕10年。</div>
+                                </div>
+                            </div></div>
+                        <div class="swiper-slide" style="background-image:url(img/nature5.jpg)">
+                          <div class='picinfo'>
+                              <div class='picinfo1'>
+                                <div class='pic'>
+                                  <img src='xgwl/img/p9.png'>
+                                </div>
+                                <div class='info'>
+                                  <div class='name'>
+                                      张晋
+                                  </div>
+                                  <div class='txt'>E签宝-联合创始人</div>
+                                </div>
+                              </div>
+                              <div class='picinfo2'>
+                                  <div class='txt1'>E签宝——从电子签名到文档归档管理，从签名数据存证到司法出证，提供全套完整电子签名生态服务。</div>
+                                  <img src='xgwl/img/infoline.png'>
+                                  <div class='txt2'>张晋e签宝联合创始人，10年电子签名行业从业经验，中国电子签名行业资深专家；10年间带领e签宝团队从十几人增长到近三百人，获得包括阿里巴巴、百度、华为、浙江省政府等40万企业用户和6000万个人用户的认可，许下通过电子签名实现“每年为地球保护1001万棵树”的愿望。</div>
+                                </div~>
+                            </div></div>
+                        <div class="swiper-slide" style="background-image:url(img/nature5.jpg)">
+                          <div class='picinfo'>
+                              <div class='picinfo1'>
+                                <div class='pic'>
+                                  <img src='xgwl/img/p10.png'>
+                                </div>
+                                <div class='info'>
+                                  <div class='name'>
+                                      官琯
+                                  </div>
+                                  <div class='txt'>冰鉴科技-副总裁——The University of Chicago硕士</div>
+                                </div>
+                              </div>
+                              <div class='picinfo2'>
+                                  <div class='txt1'>冰鉴科技——基于人工智能提供大数据风控服务的高科技金融公司</div>
+                                  <img src='xgwl/img/infoline.png'>
+                                  <div class='txt2'>Carleton College学士，The University of Chicago硕士；加入冰鉴以来，从事征信产品的研发、BI、售前技术支持等工作，设计了冰鉴小微企业征信报告和系统；推动冰鉴线上消费贷标准化产品月调用量达到千万级别；通过运用泛金融数据对无央行征信报告人群进行授信的方法，帮助数十家金融机构，完成对300多万个人及小微企业授信超过800亿，整体坏账率低于3%。</div>
                                 </div>
                             </div></div>
         </div>
