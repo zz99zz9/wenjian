@@ -621,47 +621,45 @@ AI在金融风控场景的应用，<br>
   </div>
   <div class='hzhb'>
 
-    <h3>主办方</h3>
-    <a href='http://maimai.cn/'><img src='xgwl/img/links/31.png'></a>
-    <a href='http://www.wenjian.ai/'><img src='xgwl/img/links/32.png'></a>
-    <h3>联合主办方</h3>
-    <a ><img src='xgwl/img/links/41.png'></a>
-    <a href='http://www.wenjian.ai/'><img src='xgwl/img/links/42.png'></a>
-    <a href='http://edu.tv.sohu.com/'><img src='xgwl/img/links/43.png'></a>
-    <a href='https://www.analysys.cn/'><img src='xgwl/img/links/44.png'></a>
+    <h3>主办单位</h3>
+    <a ><img src='xgwl/img/links/01.png'></a>
+    <a ><img src='xgwl/img/links/02.png'></a>
+    <h3>协办单位</h3>
+    <a ><img src='xgwl/img/links/31.png'></a>
+    <a ><img src='xgwl/img/links/12.png'></a>
+    <a ><img src='xgwl/img/links/13.png'></a>
+    <a ><img src='xgwl/img/links/14.png'></a>
+    <a ><img src='xgwl/img/links/15.png'></a>
+    <a ><img src='xgwl/img/links/16.png'></a>
 <!-- <h3>协办方</h3>
     <h3>战略合作伙伴</h3>-->
     <h3>合作支持机构</h3>
     <!--<img src='xgwl/img/link3.png'>-->
-    <a href='http://www.aispeech.com/'><img src='xgwl/img/links/01.png'></a>
-    <a href='http://www.mininglamp.com/'><img src='xgwl/img/links/02.png'></a>
-    <a href='http://www.xiaoi.com/index.shtml'><img src='xgwl/img/links/03.png'></a>
-    <a href='http://www.tuling123.com/'><img src='xgwl/img/links/04.png'></a>
-    <a href='http://www.mioji.com/'><img src='xgwl/img/links/05.png'></a>
-    <a href='http://www.emotibot.com/'><img src='xgwl/img/links/06.png'></a>
-    <a href='http://www.sinovoice.com'><img src='xgwl/img/links/07.png'></a>
+    <a ><img src='xgwl/img/links/21.png'></a>
+    <a ><img src='xgwl/img/links/22.png'></a>
+    <a ><img src='xgwl/img/links/23.png'></a>
+    <a ><img src='xgwl/img/links/24.png'></a>
+    <a ><img src='xgwl/img/links/25.png'></a>
+    <a ><img src='xgwl/img/links/26.png'></a>
+    <a ><img src='xgwl/img/links/27.png'></a>
 
     <h3>战略合作媒体</h3>
     <a href='http://www.iyiou.com/'><img src='xgwl/img/links/11.png'></a>
     <a href='http://www.geekpark.net/'><img src='xgwl/img/links/12.png'></a>
-    <a href='https://qf.56.com/'><img src='xgwl/img/links/13.png'></a>
     <a href='http://36kr.com/'><img src='xgwl/img/links/14.png'></a>
     <a href='http://www.sootoo.com/'><img src='xgwl/img/links/15.png'></a>
     <a href='http://www.pintu360.com/'><img src='xgwl/img/links/16.png'></a>
     <a href='http://www.lieyunwang.com/'><img src='xgwl/img/links/17.png'></a>
     <a href='http://www.ctoutiao.com/'><img src='xgwl/img/links/18.png'></a>
-    <a href='http://www.qmai.cc/'><img src='xgwl/img/links/19.png'></a>
-    <a href='http://www.ikanchai.com/'><img src='xgwl/img/links/110.png'></a>
+    <a ><img src='xgwl/img/links/23.png'></a>
+    <a href='http://www.baosoft.cn/'><img src='xgwl/img/links/24.png'></a>
     <a href='http://it.sohu.com/'><img src='xgwl/img/links/111.png'></a>
     <a href='http://news.ifeng.com/app/'><img src='xgwl/img/links/112.png'></a>
     <a href='http://tech.163.com/'><img src='xgwl/img/links/113.png'></a>
     <a href='http://tech.sina.com.cn/'><img src='xgwl/img/links/114.png'></a>
     <a href='http://tech.qq.com/'><img src='xgwl/img/links/115.png'></a>
-    <a ><img src='xgwl/img/links/23.png'></a>
-    <a href='http://www.baosoft.cn/'><img src='xgwl/img/links/24.png'></a>
-    <h3>战略合作孵化器</h3>
-    <a href='http://www.weqicheng.com/'><img src='xgwl/img/links/21.png'></a>
-    <a href='http://www.cocospace.com.cn/'><img src='xgwl/img/links/22.png'></a>
+
+
   </div>
   <!--获取大会ppt-->
   <div class='ptit2' >
