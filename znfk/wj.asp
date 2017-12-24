@@ -409,8 +409,7 @@ AI在金融风控场景的应用，<br>
     随着金融服务线上化、场景化、用户交互高频化，通过不断的反馈、响应和迭代，人工智能在金融行业的应用将更广泛。人工智能进入了规模化发展的新阶段，如何应用人工智能与大数据解决金融信贷业务痛点，精准识别低风险高价值人群做好客户价值深度挖掘、针对不同场景构建金融风控模型、有效解决逾期催收难题。
 </div>
 </li>
-<img src="xgwl/img/infoline.png" class='tl'>
-！！！！
+
 <img src="xgwl/img/infoline.png" class='tl'>
 <li class='info bg3'>
     <div class="timer">16:10</div>
@@ -470,9 +469,14 @@ AI在金融风控场景的应用，<br>
    <div class='pinfo2'>聚焦金融与风控主题的行业内深度交流</div>
 
 </li>
+<img src="xgwl/img/infoline.png" class='tl'>
 <li class='pic'>
     <div class="timer">21:00</div>
-    <div class='pinfo2'><a href="http://wenjianai.mikecrm.com/7MiZJrm" target="blank">圆桌论坛提问征集>></a></div>
+       <div class='pinfo'>
+  <div class="left"></div>
+<div class="right"><h3><a href="http://wenjianai.mikecrm.com/7MiZJrm" target="blank" style="color:#fff;">圆桌论坛提问征集>></a></h3></div>
+</div>
+
 </li>
 
       </ul>
