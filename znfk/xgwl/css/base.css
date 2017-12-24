@@ -69,7 +69,7 @@ h2{font-size:1.2em;color:#45aaf0;text-align: center;line-height:130%;font-weight
 .timelist li.bg2{background-image:url("../img/bg2.gif");background-repeat:no-repeat;}
 .timelist li.bg3{background-image:url("../img/bg3.gif");background-repeat:no-repeat;}
 .timelist li .pinfo{clear:both;}
-.timelist li .pinfo2{clear:both;padding:5px 5%;text-align:left;line-height:150%;}
+.timelist li .pinfo2{clear:both;padding:5px 5%;text-align:left;line-height:150%;font-size:72px;}
 .timelist li .pinfo2 h3{font-size:1.2em;}
 .timelist li.pic{clear:both;display:block;border-bottom:0;}
 .timelist .tl{width:100%;}
