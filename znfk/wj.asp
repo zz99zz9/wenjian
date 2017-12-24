@@ -625,7 +625,7 @@ AI在金融风控场景的应用，<br>
     <a ><img src='xgwl/img/links/01.png'></a>
     <a ><img src='xgwl/img/links/02.png'></a>
     <h3>协办单位</h3>
-    <a ><img src='xgwl/img/links/31.png'></a>
+    <a ><img src='xgwl/img/links/11.png'></a>
     <a ><img src='xgwl/img/links/12.png'></a>
     <a ><img src='xgwl/img/links/13.png'></a>
     <a ><img src='xgwl/img/links/14.png'></a>
