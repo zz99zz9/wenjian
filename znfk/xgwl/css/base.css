@@ -6,7 +6,7 @@ h2{font-size:1.2em;color:#45aaf0;text-align: center;line-height:130%;font-weight
 .info{font-size:1em;color:#fff;text-align:center;line-height:160%;}
 .info .h1{font-size:1.5em;}
 .info em{color:#43A9F0;font-weight:bold;}
-.picinfo .info .txt{line-height:150%;}
+.picinfo .info .txt{line-height:150%;font-size:0.8em;}
 .ptit{width:45%;padding:40px 0 25px 0;margin-left:2%;clear:both;}
 .ptit2{width:55%;padding:40px 0 30px 0;margin-left:2%;clear:both;}
 .ptit img,.ptit2 img{width:100%;}
@@ -42,8 +42,8 @@ h2{font-size:1.2em;color:#45aaf0;text-align: center;line-height:130%;font-weight
 .picinfo .picinfo1 .info .name{font-size:1.2em;color:#45aaf0;margin-top:20px;}
 .picinfo .picinfo2{border:1px solid #b0afb0;border-radius:5px;min-height:150px;padding:10px;margin-bottom:10px;margin-top:10px;}
 .picinfo .picinfo2 img{width:100%;margin-top:5px;margin-bottom:5px;}
-.picinfo .picinfo2 .txt1{color:#45aaf0;}
-.picinfo .picinfo2 .txt2{color:#fff;}
+.picinfo .picinfo2 .txt1{color:#45aaf0;font-size:0.8em;}
+.picinfo .picinfo2 .txt2{color:#fff;font-size:0.8em;}
 
 /*****大会日程***********/
 .ptime{color:#fff;padding-left:5%;font-size:1.5em;}
