@@ -65,9 +65,9 @@ h2{font-size:1.2em;color:#45aaf0;text-align: center;line-height:130%;font-weight
 .timelist li.info .name{color:#45aaf0;}
 .timelist li.info .txt{color:#45aaf0;}
 .timelist li.info .img{width:100%;}
-.timelist li.bg1{background-image:url("../img/bg1.gif");background-repeat:no-repeat;}
-.timelist li.bg2{background-image:url("../img/bg2.gif");background-repeat:no-repeat;}
-.timelist li.bg3{background-image:url("../img/bg3.gif");background-repeat:no-repeat;}
+.timelist li.bg1{background-image:url("../img/bg1.png");background-repeat:no-repeat;}
+.timelist li.bg2{background-image:url("../img/bg2.png");background-repeat:no-repeat;}
+.timelist li.bg3{background-image:url("../img/bg3.png");background-repeat:no-repeat;}
 .timelist li .pinfo{clear:both;}
 .timelist li .pinfo2{clear:both;padding:5px 5%;text-align:left;line-height:150%;font-size:0.8em;}
 .timelist li .pinfo2 h3{font-size:1.2em;}
