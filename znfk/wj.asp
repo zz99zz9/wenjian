@@ -267,7 +267,7 @@ AI在金融风控场景的应用，<br>
                                   <div class='name'>
                                       官琯
                                   </div>
-                                  <div class="txt">冰鉴科技 副总裁:The University of Chicago硕士</div>
+                                  <div class="txt">冰鉴科技 副总裁<br>The University of Chicago硕士</div>
                                 </div>
                               </div>
                               <div class="picinfo2">
