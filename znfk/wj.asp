@@ -235,7 +235,8 @@ AI在金融风控场景的应用，<br>
                                   <img src='xgwl/img/infoline.png'>
                                   <div class='txt2'>热云数据创始人兼CEO；曾任Zynga（之前美国社交游戏巨头）北京BI总监，全面负责Zynga北京的数据分析和数据系统研发工作，并直接汇报美国总部CEO；曾加入热酷游戏担任架构师，负责公司核心数据仓库系统搭建。创建热云前，入职互爱科技担任BI部门和海外游戏运营两大核心部门负责人。在大数据分析、挖掘与应用领域深耕10年。</div>
                                 </div>
-                            </div></div>
+                            </div>
+                            </div>
                         <div class="swiper-slide" style="background-image:url(img/nature5.jpg)">
                           <div class='picinfo'>
                               <div class='picinfo1'>
@@ -253,8 +254,9 @@ AI在金融风控场景的应用，<br>
                                   <div class='txt1'>E签宝:从电子签名到文档归档管理，从签名数据存证到司法出证，提供全套完整电子签名生态服务。</div>
                                   <img src='xgwl/img/infoline.png'>
                                   <div class='txt2'>张晋e签宝联合创始人，10年电子签名行业从业经验，中国电子签名行业资深专家；10年间带领e签宝团队从十几人增长到近三百人，获得包括阿里巴巴、百度、华为、浙江省政府等40万企业用户和6000万个人用户的认可，许下通过电子签名实现“每年为地球保护1001万棵树”的愿望。</div>
-                                </div~>
-                            </div></div>
+                                </div>
+                            </div>
+                            </div>
                         <div class="swiper-slide" style="background-image:url(img/nature5.jpg)">
                           <div class='picinfo'>
                               <div class='picinfo1'>
@@ -265,15 +267,16 @@ AI在金融风控场景的应用，<br>
                                   <div class='name'>
                                       官琯
                                   </div>
-                                  <div class='txt'>冰鉴科技 副总裁:The University of Chicago硕士</div>
+                                  <div class="txt">冰鉴科技 副总裁:The University of Chicago硕士</div>
                                 </div>
                               </div>
-                              <div class='picinfo2'>
-                                  <div class='txt1'>冰鉴科技:基于人工智能提供大数据风控服务的高科技金融公司</div>
-                                  <img src='xgwl/img/infoline.png'>
-                                  <div class='txt2'>Carleton College学士，The University of Chicago硕士；加入冰鉴以来，从事征信产品的研发、BI、售前技术支持等工作，设计了冰鉴小微企业征信报告和系统；推动冰鉴线上消费贷标准化产品月调用量达到千万级别；通过运用泛金融数据对无央行征信报告人群进行授信的方法，帮助数十家金融机构，完成对300多万个人及小微企业授信超过800亿，整体坏账率低于3%。</div>
+                              <div class="picinfo2">
+                                  <div class="txt1">冰鉴科技:基于人工智能提供大数据风控服务的高科技金融公司</div>
+                                  <img src="xgwl/img/infoline.png">
+                                  <div class="txt2">Carleton College学士，The University of Chicago硕士；加入冰鉴以来，从事征信产品的研发、BI、售前技术支持等工作，设计了冰鉴小微企业征信报告和系统；推动冰鉴线上消费贷标准化产品月调用量达到千万级别；通过运用泛金融数据对无央行征信报告人群进行授信的方法，帮助数十家金融机构，完成对300多万个人及小微企业授信超过800亿，整体坏账率低于3%。</div>
                                 </div>
-                            </div></div>
+                            </div>
+                            </div>
         </div>
         <!-- Add Pagination -->
         <div class="swiper-pagination"></div>
