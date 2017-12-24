@@ -476,7 +476,7 @@ AI在金融风控场景的应用，<br>
   <div class="left"></div>
 <div class="right"><h2></h2></div>
 </div>
-<div class='pinfo2' style="color:#fff;"><a href="http://wenjianai.mikecrm.com/7MiZJrm" target="blank" style="color:#fff;">圆桌论坛提问征集>></a></div>
+<div class='pinfo2' style="color:#fff;"><a href="http://wenjianai.mikecrm.com/7MiZJrm" target="blank" style="color:#45aaf0;">圆桌论坛提问征集>></a></div>
 </li>
 
       </ul>
