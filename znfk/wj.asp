@@ -444,13 +444,13 @@ AI在金融风控场景的应用，<br>
     <div class="right"><h2>更多嘉宾</h2></div>
   </li>
   <img src="xgwl/img/infoline.png" class='tl'>
-<li class='pic'>
+<li class='info bg3'>
     <div class="timer">17:30</div>
    <div class='pinfo'>
   <div class="left"></div>
 <div class="right"><h3>智能风控创新论坛</h3></div>
 </div>
-   <div class='pinfo2'>
+   <div class='pinfo2' style="color:#fff;">
     ① 智能风控的创新方向在哪里？<br>
 ② 智能风控在金融不同细分领域的应用创新点在哪里？<br>
 ③ 构建智能风控体系的门槛和难度？<br>
@@ -460,21 +460,21 @@ AI在金融风控场景的应用，<br>
 
 </li>
   <img src="xgwl/img/infoline.png" class='tl'>
-<li class='pic'>
+<li class='info bg3'>
     <div class="timer">19:00</div>
    <div class='pinfo'>
   <div class="left"></div>
 <div class="right"><h3>演讲嘉宾晚宴</h3></div>
 </div>
-   <div class='pinfo2'>聚焦金融与风控主题的行业内深度交流</div>
+   <div class='pinfo2' style="color:#fff;">聚焦金融与风控主题的行业内深度交流</div>
 
 </li>
 <img src="xgwl/img/infoline.png" class='tl'>
-<li class='pic'>
+<li class='info bg3'>
     <div class="timer">21:00</div>
        <div class='pinfo'>
   <div class="left"></div>
-<div class="right"><h3><a href="http://wenjianai.mikecrm.com/7MiZJrm" target="blank" style="color:#fff;">圆桌论坛提问征集>></a></h3></div>
+<div class="right"><h2><a href="http://wenjianai.mikecrm.com/7MiZJrm" target="blank" style="color:#fff;">圆桌论坛提问征集>></a></h2></div>
 </div>
 
 </li>
