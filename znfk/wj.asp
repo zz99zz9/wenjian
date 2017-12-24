@@ -464,7 +464,7 @@ AI在金融风控场景的应用，<br>
     <div class="timer">19:00</div>
    <div class='pinfo'>
   <div class="left"></div>
-<div class="right"><h3>演讲嘉宾晚宴</h3></div>
+<div class="right"><h3>演讲嘉宾大会晚宴</h3></div>
 </div>
    <div class='pinfo2' style="color:#fff;">聚焦金融与风控主题的行业内深度交流</div>
 
