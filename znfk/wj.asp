@@ -608,10 +608,10 @@ AI在金融风控场景的应用，<br>
     
   </div>
    <div class='wzinfo'>
-    <p class="tit"><img src="xgwl/img/titwj.png"></p>
+    <p class="tit"><img src="xgwl/img/titwj.png" style="width:30%;"></p>
   <p class="txt">问见是一个专注AI应用创新的科技媒体，以AI人物采访、AI产品洞察、AI应用创新研究以及举办AI应用创新大会为核心业务；通过优质内容输出，帮助人们更深刻的了解AI应用创新的前沿动态，帮助AI应用创新的领军企业获得更多赞誉，以促进AI应用产业的快速发展。
   </p>
-  <p class="tit"><img src="xgwl/img/titmyh.png"></p>
+  <p class="tit"><img src="xgwl/img/titmyh.png" style="width:30%;"></p>
   <p class="txt">“上海脉友会”成立于2015年8月，是脉脉在上海的线下活动品牌，致力打造一个聚焦“干货+社交”的社群服务平台，旨在为更多渴望成长的人带来专业和职场的提升；目前已经举办社群沙龙和大会累积数十场，在产品、技术、运营等专业领域拥有大量的用户积累，成为上海最具影响力的社群之一。
   </p>
   </div>
