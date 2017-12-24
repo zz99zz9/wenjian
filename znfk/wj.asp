@@ -287,8 +287,8 @@ AI在金融风控场景的应用，<br>
         <img src='xgwl/img/tit3.png'>
       </div>
       <div class='ptime'>
-        <b>2017.9.24</b>
-        12:30-19:00 
+        <b>2018.01.18</b>
+        12:30-18:30 
       </div>
       <div class="tline" id='timelist' onclick='javascript:hid(".timelist")'>PM<i class=' tra'></i></div>
       <ul class='timelist'>
@@ -308,118 +308,171 @@ AI在金融风控场景的应用，<br>
       <div class="timer">13:30</div>
       <div class='pinfo'>
     <div class="left"><img src='xgwl/img/p1.png'></div>
-  <div class="right"><h3>“AI+”的现状与应用</h3>
-    <div class='name'>李智/易观智慧院</div><span class='txt'>院长</span>
+  <div class="right"><h3>关于大数据风控与互联网征信的冷思考</h3>
+    <div class='name'>石鹏峰</div><span class='txt'>网贷之家联合创始人</span><span class='txt'>盈灿集团副总裁</span>
   </div>
 </div>
 <div class='pinfo2'>
-    
-    人工智能的研究范畴、人工智能行业发展及现状、人工智能基础技术及应用。
+ 随着大数据和人工智能技术的快速发展，其在金融风控领域的应用也越来越深入，越来越多的机构宣称自己使用了人工智能和大数据技术，也有越来越多的提供互联网大数据征信服务的公司出现。不过由于中国当前对于互联网金融行业尚处在发展早期、行业发展尚不成熟、行业监管尚不到位，而对于个人信息保护、大数据应用、网络安全等问题的法制建设较为滞后，使得大数据和人工智能等技术在具体应用时遇到了不少的困难和问题：个人数据的定义是什么？如何保护？征信的定义是什么？历史数据能预测未来吗？一个征信分能应用于不同场景吗？大数据是数据量的大还是数据纬度的多？数据纬度是越多越好吗？如何解决数据孤岛的问题？通过我在互联网金融高速发展的这几年里对于大数据风控和互联网征信的冷思考，回顾大数据风控的发展现状，展望互联网征信的未来。
 </div>
 </li>
 <img src="xgwl/img/infoline.png" class='tl'>
 <li class='info bg3'>
-    <div class="timer">14:00</div>
+    <div class="timer">13:50</div>
     <div class='pinfo'>
-  <div class="left"><img src='xgwl/img/p2.png'></div>
-<div class="right"><h3>解密语音交互智能的AI产品设计</h3>
-  <div class='name'>赵恒艺/思必驰</div><span class='txt'>副总裁</span>
+  <div class="left"><img src='xgwl/img/p9.png'></div>
+<div class="right"><h3>基于电子签名和数据存证的金融业务合规性建设</h3>
+  <div class='name'>张晋</div><span class='txt'>E签宝 联合创始人</span>
   <!---->
 </div>
 </div>
 <div class='pinfo2'>
-  交互智能已经从搜索智能、内容智能发展到综合智能，并覆盖众多垂直行业应用；语音交互智能也成为当前最火热的人机交互手段，那么我们是如何快速实现呢？
+  …………
   
 </div>
 </li>
 <img src="xgwl/img/infoline.png" class='tl'>
 <li class='info bg2'>
-    <div class="timer">14:30</div>
+    <div class="timer">14:10</div>
     <div class='pinfo'>
-  <div class="left"><img src='xgwl/img/p3.png'></div>
-<div class="right"><h3>会话式AI的广泛产品应用与商业价值</h3>
-  <div class='name'>王洪远/小i机器人</div><span class='txt'>AI产品创新负责人</span>
+  <div class="left"><img src='xgwl/img/p2.png'></div>
+<div class="right"><h3>智能风控的发展方向</h3>
+  <div class='name'>李晓忠</div><span class='txt'>麦子金服 VP</span>
 </div>
 </div>
 <div class='pinfo2'>
-    会话式人工智能的历史、现状，目前在产业的应用及产品创新拓展前景。
+    一方面人工智能如火如荼，另一方面包括人民日报也在提醒大家当心人工智能泡沫。后又有专家指出90%以上是伪人工智能，从这种混乱的现象出发，梳理人工智能发展的轨迹及其核心价值，进而分析人工智能的内涵，以及与金融风控的结合点，归纳总结智能风控的成功点以及不足点。最后对智能风控的趋势与机会给出发展方向。
 </div>
 </li>
 <img src="xgwl/img/infoline.png" class='tl'>
 <li class='info'>
-    <div class="timer">15:00</div>
+    <div class="timer">14:30</div>
     <div class='pinfo'>
-  <div class="left"><img src='xgwl/img/p4.png'></div>
-<div class="right"><h3>如何创造智能旅程规划的AI产品</h3>
-  <div class='name'>路荣博士/妙计旅行</div><span class='txt'>联合创始人<br>研发负责人</span>
+  <div class="left"><img src='xgwl/img/p6.png'></div>
+<div class="right"><h3>…………</h3>
+  <div class='name'>梅臻</div><span class='txt'>法大大联合创始人<br>首席法务官</span>
 </div>
 </div>
 <div class='pinfo2'>
-    行程规划问题为什么是一个复杂的问题？我们如何通过人工智能的算法及产品化来解决这个问题。
+    …………
 </div>
 </li>
 <img src="xgwl/img/infoline.png" class='tl'>
 <li class='info bg3'>
-    <div class="timer">15:30</div>
+    <div class="timer">14:50</div>
     <div class='pinfo'>
   <div class="left"><img src='xgwl/img/p5.png'></div>
-<div class="right"><h3>AI如何实现从个体赋能到全局智能</h3>
-  <div class='name'>杨威/明略数据</div><span class='txt'>技术合伙人<br>产品负责人</span>
+<div class="right"><h3>数据+技术+创新，智能是金融风控的未来</h3>
+  <div class='name'>冯炯</div><span class='txt'>你我贷 CTO & 高级副总裁</span>
 </div>
 </div>
 <div class='pinfo2'>
-    分享AI应用的行业最前沿，解密“明智系统——行业AI大脑”如何为多行业提供AI技术支持，从格物致知到人机同行，从而驱动多个行业快速跨入AI时代。
+    随着互联网、大数据、云计算驱动下的金融科技迅猛发展，传统金融业务正在被全面再造。而随着人工智能、区块链的成熟，AI技术正快速融入金融应用，科技金融的下一站将是智能金融。智能化升级将在涉及金融风控等诸多环节爆发惊人力量。
+</div>
+</li>
+<img src="xgwl/img/infoline.png" class='tl'>
+<li class='info bg3'>
+    <div class="timer">15:10</div>
+    <div class='pinfo'>
+  <div class="left"><img src='xgwl/img/p7.png'></div>
+<div class="right"><h3>小赢科技风险管理中的大数据应用与建模及反欺诈实践</h3>
+  <div class='name'>吴晓春</div><span class='txt'>小赢科技 高级风控模型总监</span>
+</div>
+</div>
+<div class='pinfo2'>
+    …………
 </div>
 </li>
 <img src="xgwl/img/infoline.png" class='tl'>
 <li class='info bg2'>
-    <div class="timer">16:00</div>
+    <div class="timer">15:30</div>
     <div class='pinfo'>
-  <div class="left"><img src='xgwl/img/p6.png'></div>
-<div class="right"><h3>让机器读懂人类情感</h3>
-  <div class='name'>翁嘉颀/竹间智能</div><span class='txt'>CTO</span>
+  <div class="left"><img src='xgwl/img/p8.png'></div>
+<div class="right"><h3>基于用户行为数据挖掘与实时监测提升金融风控运营效能</h3>
+  <div class='name'>白冬立</div><span class='txt'>热云 CEO</span>
 </div>
 </div>
 <div class='pinfo2'>
-    如何通过AI技术让机器真正读懂、看懂、听懂人类的情感；如何将情感计算和类脑对话机器人应用到人类的生活场景，应用到高价值的商业场景。
+    随着AI技术的不断发展，在数据挖掘与分析中越发发挥出巨大价值，基于用户行为的数据挖掘、分析决策、实时监测、意图识别、标签识别等技术将对金融风控运营带来巨大效能提升，为金融风控运营注入全新的智能力量。
 </div>
 </li>
 <img src="xgwl/img/infoline.png" class='tl'>
 <li class='info'>
-    <div class="timer">16:30</div>
+    <div class="timer">15:50</div>
     <div class='pinfo'>
-  <div class="left"><img src='xgwl/img/p7.png'></div>
-<div class="right"><h3>基于AI应用的金融业务模式创新</h3>
-  <div class='name'>苏湘/捷通华声</div><span class='txt'>金融AI产品负责人</span>
+  <div class="left"><img src='xgwl/img/p3.png'></div>
+<div class="right"><h3>人工智能如何重塑金融业态</h3>
+  <div class='name'>顾威</div><span class='txt'>同盾科技 副总裁</span>
 </div>
 </div>
 <div class='pinfo2'>
-    如何应用智能语音图像、生物识别、智能语义等AI技术，解决金融行业服务量大、文件繁多、安全等级高等问题，从而跨入AI金服时代，开启AI金服新模式。
+    随着金融服务线上化、场景化、用户交互高频化，通过不断的反馈、响应和迭代，人工智能在金融行业的应用将更广泛。人工智能进入了规模化发展的新阶段，如何应用人工智能与大数据解决金融信贷业务痛点，精准识别低风险高价值人群做好客户价值深度挖掘、针对不同场景构建金融风控模型、有效解决逾期催收难题。
+</div>
+</li>
+<img src="xgwl/img/infoline.png" class='tl'>
+！！！！
+<img src="xgwl/img/infoline.png" class='tl'>
+<li class='info bg3'>
+    <div class="timer">16:10</div>
+    <div class='pinfo'>
+  <div class="left"><img src='xgwl/img/p4.png'></div>
+<div class="right"><h3>人工智能在金融风控中的应用实践</h3>
+  <div class='name'>唐科伟</div><span class='txt'>前蚂蚁金服微贷平台 风险部总经理/孚临金科 创始人</span>
+</div>
+</div>
+<div class='pinfo2'>
+    本次报告集中展示了在数字金融领域内人工智能和大数据技术的最新应用前沿，探讨了一些重要的难点和热点，并提出了一些可能的新的研究方向。
 </div>
 </li>
 <img src="xgwl/img/infoline.png" class='tl'>
 <li class='info bg3'>
-    <div class="timer">17:00</div>
+    <div class="timer">16:30</div>
     <div class='pinfo'>
-  <div class="left"><img src='xgwl/img/p8.png'></div>
-<div class="right"><h3>AI产品经理：人工智能的瓶颈和机会</h3>
-  <div class='name'>黄钊/图灵机器人</div><span class='txt'>人才战略官</span>
+  <div class="left"><img src='xgwl/img/p10.png'></div>
+<div class="right"><h3>智能风控的非与是</h3>
+  <div class='name'>官琯</div><span class='txt'>冰鉴科技 副总裁</span>
 </div>
 </div>
 <div class='pinfo2'>
-    解析目前AI行业真正的瓶颈？解读AI PM的稀缺度？分析为什么AI PM才是“需求产品经理” ？阐述AI PM是谁的机会（文科生&女生）？
+    探讨何为真正的智能风控。智能风控并不是密密麻麻的征信报告，也不是既当裁判员又当运动员的征信机构，而是风险控制、规模化、自动化，整合金融与泛金融数据，形成各场景的标准化评分，使用量化模型打造全生命周期风险管理体系，并且是C端风控和B端风控的结合。
 </div>
 </li>
 
-
+    <img src="xgwl/img/infoline.png" class='tl'>
+    <li class='bg2'>
+        <div class="timer">16:50</div>
+      <div class="left"></div>
+    <div class="right"><h2>更多嘉宾</h2></div>
+  </li>
+  <img src="xgwl/img/infoline.png" class='tl'>
 <li class='pic'>
     <div class="timer">17:30</div>
-    <img src='xgwl/img/banner.gif' class='img'>
+   <div class='pinfo'>
+  <div class="left"></div>
+<div class="right"><h3>智能风控创新论坛</h3></div>
+</div>
+   <div class='pinfo2'>
+    ① 智能风控的创新方向在哪里？<br>
+② 智能风控在金融不同细分领域的应用创新点在哪里？<br>
+③ 构建智能风控体系的门槛和难度？<br>
+④ 对智能风控体系从“采购-自建-输出”三种阶段性诉求的理解？<br>
+⑤ 发展智能风控需要什么样的人才及如何培养？
+</div>
+
+</li>
+  <img src="xgwl/img/infoline.png" class='tl'>
+<li class='pic'>
+    <div class="timer">19:00</div>
+   <div class='pinfo'>
+  <div class="left"></div>
+<div class="right"><h3>演讲嘉宾晚宴</h3></div>
+</div>
+   <div class='pinfo2'>聚焦金融与风控主题的行业内深度交流</div>
 
 </li>
 <li class='pic'>
-    <div class="timer">18:30</div>
-    <img src='xgwl/img/end.gif' class='img'>
+    <div class="timer">21:00</div>
+    <div class='pinfo2'><a href="http://wenjianai.mikecrm.com/7MiZJrm" target="blank">圆桌论坛提问征集>></a></div>
 </li>
 
       </ul>
