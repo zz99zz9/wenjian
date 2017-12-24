@@ -309,7 +309,7 @@ AI在金融风控场景的应用，<br>
       <div class='pinfo'>
     <div class="left"><img src='xgwl/img/p1.png'></div>
   <div class="right"><h3>关于大数据风控与互联网征信的冷思考</h3>
-    <div class='name'>石鹏峰</div><span class='txt'>网贷之家联合创始人</span><span class='txt'>盈灿集团副总裁</span>
+    <div class='name'>石鹏峰</div><span class='txt'>网贷之家联合创始人<br>盈灿集团副总裁</span>
   </div>
 </div>
 <div class='pinfo2'>
@@ -370,22 +370,10 @@ AI在金融风控场景的应用，<br>
     随着互联网、大数据、云计算驱动下的金融科技迅猛发展，传统金融业务正在被全面再造。而随着人工智能、区块链的成熟，AI技术正快速融入金融应用，科技金融的下一站将是智能金融。智能化升级将在涉及金融风控等诸多环节爆发惊人力量。
 </div>
 </li>
-<img src="xgwl/img/infoline.png" class='tl'>
-<li class='info bg3'>
-    <div class="timer">15:10</div>
-    <div class='pinfo'>
-  <div class="left"><img src='xgwl/img/p7.png'></div>
-<div class="right"><h3>小赢科技风险管理中的大数据应用与建模及反欺诈实践</h3>
-  <div class='name'>吴晓春</div><span class='txt'>小赢科技 高级风控模型总监</span>
-</div>
-</div>
-<div class='pinfo2'>
-    …………
-</div>
-</li>
+
 <img src="xgwl/img/infoline.png" class='tl'>
 <li class='info bg2'>
-    <div class="timer">15:30</div>
+    <div class="timer">15:10</div>
     <div class='pinfo'>
   <div class="left"><img src='xgwl/img/p8.png'></div>
 <div class="right"><h3>基于用户行为数据挖掘与实时监测提升金融风控运营效能</h3>
@@ -398,7 +386,7 @@ AI在金融风控场景的应用，<br>
 </li>
 <img src="xgwl/img/infoline.png" class='tl'>
 <li class='info'>
-    <div class="timer">15:50</div>
+    <div class="timer">15:30</div>
     <div class='pinfo'>
   <div class="left"><img src='xgwl/img/p3.png'></div>
 <div class="right"><h3>人工智能如何重塑金融业态</h3>
@@ -409,7 +397,19 @@ AI在金融风控场景的应用，<br>
     随着金融服务线上化、场景化、用户交互高频化，通过不断的反馈、响应和迭代，人工智能在金融行业的应用将更广泛。人工智能进入了规模化发展的新阶段，如何应用人工智能与大数据解决金融信贷业务痛点，精准识别低风险高价值人群做好客户价值深度挖掘、针对不同场景构建金融风控模型、有效解决逾期催收难题。
 </div>
 </li>
-
+<img src="xgwl/img/infoline.png" class='tl'>
+<li class='info bg3'>
+    <div class="timer">15:50</div>
+    <div class='pinfo'>
+  <div class="left"><img src='xgwl/img/p7.png'></div>
+<div class="right"><h3>小赢科技风险管理中的大数据应用与建模及反欺诈实践</h3>
+  <div class='name'>吴晓春</div><span class='txt'>小赢科技 高级风控模型总监</span>
+</div>
+</div>
+<div class='pinfo2'>
+    …………
+</div>
+</li>
 <img src="xgwl/img/infoline.png" class='tl'>
 <li class='info bg3'>
     <div class="timer">16:10</div>
