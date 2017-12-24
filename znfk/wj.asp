@@ -474,9 +474,9 @@ AI在金融风控场景的应用，<br>
     <div class="timer">21:00</div>
        <div class='pinfo'>
   <div class="left"></div>
-<div class="right"><h2><a href="http://wenjianai.mikecrm.com/7MiZJrm" target="blank" style="color:#fff;">圆桌论坛提问征集>></a></h2></div>
+<div class="right"><h2></h2></div>
 </div>
-
+<div class='pinfo2' style="color:#fff;"><a href="http://wenjianai.mikecrm.com/7MiZJrm" target="blank" style="color:#fff;">圆桌论坛提问征集>></a></div>
 </li>
 
       </ul>
