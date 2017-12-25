@@ -624,16 +624,16 @@ AI在金融风控场景的应用，<br>
     <h3>主办单位</h3>
     <a ><img src='xgwl/img/links/01.png'></a>
     <a ><img src='xgwl/img/links/02.png'></a>
-    <!--<h3>协办单位</h3>
+   <h3>协办单位</h3>
     <a ><img src='xgwl/img/links/11.png'></a>
     <a ><img src='xgwl/img/links/12.png'></a>
     <a ><img src='xgwl/img/links/13.png'></a>
     <a ><img src='xgwl/img/links/14.png'></a>
     <a ><img src='xgwl/img/links/15.png'></a>
     <a ><img src='xgwl/img/links/16.png'></a>
- <h3>协办方</h3>
+  <!--<h3>协办方</h3>
     <h3>战略合作伙伴</h3>-->
-    <h3>协办单位</h3>
+    <h3>合作支持单位</h3>
     <!--<img src='xgwl/img/link3.png'>-->
     <a ><img src='xgwl/img/links/21.png'></a>
     <a ><img src='xgwl/img/links/22.png'></a>
