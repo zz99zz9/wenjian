@@ -644,7 +644,7 @@ AI在金融风控场景的应用，<br>
     <a ><img src='xgwl/img/links/27.png'></a>
 
     <h3>战略合作媒体</h3>
-    <a href='http://www.iyiou.com/'><img src='xgwl/img/links/11.png'></a>
+    <a href='http://www.iyiou.com/'><img src='xgwl/img/links2/11.png'></a>
     <a href='http://www.geekpark.net/'><img src='xgwl/img/links2/12.png'></a>
     <a href='http://36kr.com/'><img src='xgwl/img/links2/14.png'></a>
     <a href='http://www.sootoo.com/'><img src='xgwl/img/links2/15.png'></a>
