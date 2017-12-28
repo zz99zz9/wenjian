@@ -227,7 +227,7 @@ AI在金融风控场景的应用，<br>
                                   <div class='name'>
                                       白冬立
                                   </div>
-                                  <div class='txt'>热云 CEO</div>
+                                  <div class='txt'>热云数据 CEO</div>
                                 </div>
                               </div>
                               <div class='picinfo2'>
