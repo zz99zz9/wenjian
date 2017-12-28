@@ -328,7 +328,6 @@ AI在金融风控场景的应用，<br>
 </div>
 <div class='pinfo2'>
   …………
-  
 </div>
 </li>
 <img src="xgwl/img/infoline.png" class='tl'>
@@ -370,14 +369,13 @@ AI在金融风控场景的应用，<br>
     随着互联网、大数据、云计算驱动下的金融科技迅猛发展，传统金融业务正在被全面再造。而随着人工智能、区块链的成熟，AI技术正快速融入金融应用，科技金融的下一站将是智能金融。智能化升级将在涉及金融风控等诸多环节爆发惊人力量。
 </div>
 </li>
-
 <img src="xgwl/img/infoline.png" class='tl'>
 <li class='info bg2'>
     <div class="timer">15:10</div>
     <div class='pinfo'>
   <div class="left"><img src='xgwl/img/p8.png'></div>
 <div class="right"><h3>基于用户行为数据挖掘与实时监测提升金融风控运营效能</h3>
-  <div class='name'>白冬立</div><span class='txt'>热云 CEO</span>
+  <div class='name'>白冬立</div><span class='txt'>热云数据 CEO</span>
 </div>
 </div>
 <div class='pinfo2'>
