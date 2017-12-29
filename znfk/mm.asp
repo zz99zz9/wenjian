@@ -9,8 +9,9 @@
 <!--#include file="inc/Function.asp"-->
 <!--#include file="inc/Inc.Asp"-->
 <%from=trim(request.QueryString("from"))
+from="maimai"
 set brs=server.createobject("adodb.recordset")
-bsql = "select * from [tdk] where k='maimai'"'"&from&"
+bsql = "select * from [tdk] where k='"&from&"'"'
 
 brs.open bsql,conn,1,1
 if brs.bof and brs.eof then
