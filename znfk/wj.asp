@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -11,7 +11,7 @@
 <%from=trim(request.QueryString("from"))
 from="default"
 set brs=server.createobject("adodb.recordset")
-bsql = "select * from [tdk] where k='maimai'"'"&from&"
+bsql = "select * from [tdk] where k='"&from&"'"'
 
 brs.open bsql,conn,1,1
 if brs.bof and brs.eof then
