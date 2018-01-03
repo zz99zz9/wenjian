@@ -40,7 +40,7 @@ classid=request.QueryString("lmid")%>
     <label for="title" class="col-sm-2 control-label text-right xglab">Title</label>
     <div class="col-sm-7 row">
         <div class="col-sm-12">
-      <input type="text" name="title" class="form-control" id="title" placeholder="请输入推广标题" value="上海建工海外地产中心">
+      <input type="text" name="title" class="form-control" id="title" placeholder="请输入标题" >
       </div>
     </div>
   </div>
@@ -48,7 +48,7 @@ classid=request.QueryString("lmid")%>
     <label for="keywords" class="col-sm-2 control-label text-right xglab">Keywords</label>
     <div class="col-sm-7 row">
     <div class="col-sm-12">
-      <input type="text" name="keywords" class="form-control" id="keywords" placeholder="推广关键词之间请用,号将其隔开" value="上海房产,海外房产,上海购房置业" >
+      <input type="text" name="keywords" class="form-control" id="keywords" placeholder="关键词" >
       </div>
     </div>
   </div>
@@ -56,7 +56,7 @@ classid=request.QueryString("lmid")%>
     <label for="description" class="col-sm-2 control-label text-right xglab">Description</label>
     <div class="col-sm-7 row">
     <div class="col-sm-12">
-      <input type="text" name="description" class="form-control" id="description" placeholder="推广描述" value="上海房产,海外房产,上海购房置业">
+      <input type="text" name="description" class="form-control" id="description" placeholder="报名地址" >
       </div>
     </div>
   </div>
