@@ -504,7 +504,7 @@ AI在金融风控场景的应用，<br>
         <div class='wzinfo'>
             <p class='tit'><span class='blue'>D区：</span>普通票</p>
             <p class='txt'>座位排在第11到第16排，剧院式坐席。按号售票模式，越早购买，座位越靠前面，邀请加入普通票微信群。</p><p class='txt2'><span class='jg'>180</span>元/席位 （限126席）</p>
-            <p class='txt'><span class='blue'>票务咨询请加：AI社群管理员@问见研习社~</span><br>微信号：wenjian-AI-01</p>
+            <p class='txt'><span class='blue'>票务咨询请加：AI社群管理员@问见研习社~<br>微信号：wenjian-AI-01</span></p>
           </div>
   <!--立即报名   <a href="<%=url%>"  class='qp'>立即报名</a>-->
 
